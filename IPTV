@@ -21,8 +21,8 @@ https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/INFANTIL.m3u
 https://iptv-org.github.io/iptv/categories/animation.m3u
 #EXTINF:-1 tvg-logo="prueba",mat
 https://raw.githubusercontent.com/GABIDAVID87/GABIDAVID87/e1e8e04f82dfb86edc4e1267492fb1a2d3e22e3f/LOS.SIMPSON1.txt
-#EXTINF:-1 tvg-logo="pruebas",supabase
-https://jqfpsbbqptsdcwocabpu.supabase.co/storage/v1/object/public/pelis//MobLand%20(2025).m3
+#EXTINF:-1 tvg-logo="pruebas",github
+https://github.com/tokio1175/prueba/releases/download/tag3/sociales.1.mp4
 
 ........ TV.....
 #EXTINF:-1 tvg-logo=""group-title="Plutotv + canales",Canales
