@@ -1,7 +1,12 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/CBG77EwlLhxTb1yKoO4DTUGMM1.jpg",The Ballad of Wallis Island (2025)
+https://pomf2.lain.la/f/r8b18vq.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ymkmPr7xCphH50Dz0NVqxG5wZJo.jpg",Escuela de Animales Mágicos 3 (2024)
 https://dl.dropbox.com/scl/fi/cfzz6fablbcr8juw94p65/sociales.mp4?rlkey=p58v4sjwe9f25nah7fgj5cmxg&st=oivz3vqp&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s7LIE7oNZ6WU4ajf1FaXWyMYdpX.jpg",Ciudad de asteroides (2023)
