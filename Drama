@@ -1,6 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dXVGVz3sGLVnJf7tiJ9zDHqiqFX.jpg",Song Sung Blue (2025)
+https://dl.dropbox.com/scl/fi/ufm6006pfpjq7f7ko8bnn/fisica.mp4?rlkey=a8g07vsa6rnk51fydqej8m708&st=ljngn90q&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tL5iKQDoak8W6QTruwo3HOxiVmf.jpg",La noche sin mí (2025)
 https://dl.dropbox.com/scl/fi/vrcutqxpmjes7yivnade0/fisica.MKV?rlkey=tx5h7w1wkaxn5tw29mm9izoxd&st=j01dbz8l&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kBnNDABP0rIkXdxJV3OcyOlTLT3.jpg",On Falling (2025)
