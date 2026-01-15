@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTGRP: Netflix
 
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ly6jaxMxzha70e0mQIFRJpPxXJG.jpg"group-title="Netflix",Taskaree La red del contrabandista (2026)
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sVl7GPi1aGX5wnNsBZDf93hu9gU.jpg"group-title="Netflix",el y ella (2026)
 https://dl.dropbox.com/scl/fi/64ypyg9u8gvou9cgrlvl6/L-Y-ELLA-2026?rlkey=8ztsl1ov518mmi3jcifxeasy8&st=27bsbglp&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/drpeMcOyFlaoSP2R5ZkWgbqLfDK.jpg"group-title="Netflix",amor de oficina (2026)
