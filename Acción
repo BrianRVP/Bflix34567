@@ -1,6 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jyE4XUQLlApI0sqfbrY9i5zgFs8.jpg",Maldita trinidad (2025)
+https://pomf2.lain.la/f/key2fxyn.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5Byv6nznAb2Izd0gHpODOXnuSbo.jpg",Icefall (2025)
 https://dl.dropbox.com/scl/fi/mtr9skbqnjf1ovqf8vhy1/f-sica.mp4?rlkey=x942tqk75dv8a36pi4q8a0zb0&st=lwg6xqdk&dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6tpAPeuuqbVnYWWPoOLEDLSBU7a.jpg",Trap House (2025)
