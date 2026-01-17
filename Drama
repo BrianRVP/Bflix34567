@@ -1,6 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xXuDJUCU8m83OjyqAh79rbHtrAZ.jpg",Copper (2025)
+https://pomf2.lain.la/f/yra3mj6y.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bT5QN5QARV5TblAt9jDVQQsnSec.jpg",Incognito (2025)
 https://pomf2.lain.la/f/axtoynrz.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4GJTUSjbCGynQo4PpTTNzzxYfBM.jpg",Todos los demonios están aquí (2025)
