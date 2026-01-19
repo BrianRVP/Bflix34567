@@ -1,18 +1,16 @@
 #EXTM3U
-
+EXTGRP:IPTV
 
 
 
 
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",boca 2
-https://j8nte.envivoslatam.org/disney5/tracks-v1a1/mono.m3u8?ip=190.48.6.233&token=8b62b6dbef198c8f830dfec547992e08393e5ac1-08-1768825723-1768771723
-#EXTINF:-1 tvg-logo="",boca
-https://mze7u.envivoslatam.org/event1/tracks-v1a1/mono.m3u8?ip=190.48.6.233&token=b5ff7263d5eb12965ff39d17b62b584eb5e84aba-8f-1768825682-1768771682
+#EXTINF:-1 tvg-logo="",listas
+https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/_______
 
-#EXTINF:-1 tvg-logo="",prueb222
-https://pvtn5y.envivoslatam.org/disney4/tracks-v1a1/mono.m3u8?ip=190.48.6.233&token=ffc941ff8e7037694e774a761e59267b9c465456-6b-1768825360-1768771360
+
+
 #EXTINF:-1 tvg-logo="",Isaxd183
 https://raw.githubusercontent.com/tokio14-dot/isa/refs/heads/main/isa2
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qeeQ7rfTAXNYh4EqqdolFLkNwKM.jpg",SIDE BY SIDE
