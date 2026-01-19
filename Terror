@@ -1,5 +1,12 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cqbXxAw9sUr4tJ5ffEwtnz6IL9o.jpg",Killer Whale (2026)
+https://pomf2.lain.la/f/ranu9v9k.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tE4LNb3uJZ33VvPrRIxvc7QUcxO.jpg",Teléfono negro 2 (2025)
 https://dl.dropbox.com/scl/fi/64csdvzrfoshppfcbdvqb/sociakes-naturales.mp4?rlkey=mc77vqy4lbgtespolvb3t19ah&st=5rbcphx6&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1D2R2wIgbTyXTPzmyJIKSbVN9wG.jpg",Teléfono negro (2022)
