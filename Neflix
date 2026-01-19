@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTGRP: Netflix
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dm6RoaKgkGUxckamMDzsbqtLhFv.jpg"group-title="Netflix",Cashero (2025)
+https://dl.dropbox.com/scl/fi/whfemtj359gzp5lkdvkyn/Cashero-2025?rlkey=bfpdtpfhwutcxcifhtxiu0j4p&st=lsla03g6&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zgUh4cgalSzBjbsT5P0qmU7Rjzk.jpg"group-title="Netflix",Se puede traducir este amor (2026)
 https://dl.dropbox.com/scl/fi/4gzcj0ezkf0n3z2n3sdha/Se-puede-traducir-este-amor-2026?rlkey=a3kstknbfdy6tkl1gy43mjhy0&st=s7o890qd&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ly6jaxMxzha70e0mQIFRJpPxXJG.jpg"group-title="Netflix",Taskaree La red del contrabandista (2026)
