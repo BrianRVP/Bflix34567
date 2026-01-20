@@ -1,7 +1,11 @@
  #EXTM3U
+#EXTGRP:ANIMES
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6OPkylhlyGw3kCAEEJvTD5eDTXT.jpg",JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie (2025)
-https://pomf2.lain.la/f/17zhcd7w.mp4
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k8bh5mvHDx3czHSF56v9lRyulLC.jpg"group-title="Sentenced to Be a Hero",Sentenced to Be a Hero (2026)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Sentenced%20to%20Be%20a%20Hero%20(2026)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/96mUvRlJBYOMBdbn30wtoh7QrpY.jpg"group-title="86 EIGHTY-SIX",86 EIGHTY-SIX (2021)
 https://dl.dropbox.com/scl/fi/azwiq24tgqqk3td3nfs1e/86-EIGHTY-SIX-2021?rlkey=s2x05nj99wjseg2hvyvfmwss6&st=62i4rpv8&.m3u
 #EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/shuumatsu-no-walkure.jpg" group-title="Record of Ragnarok",Record of Ragnarok (2021)
