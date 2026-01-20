@@ -1,8 +1,9 @@
  #EXTM3U
-#EXTINF:-1 tvg-logo=""group-title="ANIME",ANIME
 
 
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7ynNG9lYS9HIR8cYMgawO19VPkg.jpg"group-title="TO BE HERO X",TO BE HERO X (2025)
+https://dl.dropbox.com/scl/fi/5ewuf0a5d3miqpsv5qojj/TO-BE-HERO-X-2025?rlkey=6poe4dyot1mcwqnlbjxqj2q2o&st=sis4lah1&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k8bh5mvHDx3czHSF56v9lRyulLC.jpg"group-title="Sentenced to Be a Hero",Sentenced to Be a Hero (2026)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Sentenced%20to%20Be%20a%20Hero%20(2026)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/96mUvRlJBYOMBdbn30wtoh7QrpY.jpg"group-title="86 EIGHTY-SIX",86 EIGHTY-SIX (2021)
