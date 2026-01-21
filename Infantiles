@@ -1,5 +1,13 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/29QgWSQ3fN8YV3dNx68kBESP4gE.jpg",Heidi: Rescate del lince (2025)
+https://pomf2.lain.la/f/65x9gbag.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eLomNIDmKBTuvtQtIFZ67N1mzsv.jpg",Tom y Jerry: Brújula prohibida (2025)
 https://pomf2.lain.la/f/d6ykix1k.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/g7ki03zoFRnqMVLno8kUyCQAeWP.jpg",Los exploradores (2024)
