@@ -1,5 +1,13 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/r3Fdy3NZHuPUMoXSt3R5eehMIdE.jpg",Eloy de la Iglesia, adicto al cine (2025)
+https://pomf2.lain.la/f/syg4z2ik.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hMVhZxgbFLXZcDUIZ10NGb6s8w4.jpg",Kidnapped: Elizabeth Smart (2026)
 https://pomf2.lain.la/f/8vu4a505.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/pr4kRAXsQE97CpHv3s5L0cW9w38.jpg",La historia de Silyan (2025)
