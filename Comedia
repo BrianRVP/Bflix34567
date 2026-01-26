@@ -1,8 +1,8 @@
 #EXTM3U
-..#EXTINF:-1 tvg-logo="",
 
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8iMPQl13q89jQhaA5nXb6UiT0t0.jpg",Panda Plan (2024)
+https://pomf2.lain.la/f/1bw50bmq.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/ld7HHNBXFt5XxO3DW5IBkGUIsLt.jpg",La mitad que falta (2025)
 https://pomf2.lain.la/f/k6ht23h3.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eiu1bJEpBQeq5eyNHzuMhYWaLF2.jpg",Robot T-O (2025)
