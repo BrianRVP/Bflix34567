@@ -1,15 +1,8 @@
 #EXTM3U
 EXTGRP:IPTV
 
-
-
-
-#EXTINF:-1 tvg-logo="",
-
 #EXTINF:-1 tvg-logo="",listas
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/_______
-
-
 
 #EXTINF:-1 tvg-logo="",Isaxd183
 https://raw.githubusercontent.com/tokio14-dot/isa/refs/heads/main/isa2
@@ -31,7 +24,7 @@ https://raw.githubusercontent.com/Chanjdm/JDM/refs/heads/main/JDM/masseries.m3u
 #EXTINF:-1 tvg-logo=""group-title="prueba",nexus
 https://raw.githubusercontent.com/ZeruG8/Nexus/refs/heads/main/Nexus/Nexus.m3u
 #EXTINF:-1 tvg-logo=""group-title="prueba",pr 2
-
+http://weib-tv-play.xyz:80/movie/Robert-JVasquez2023/Robert-JVasquez2023/728802.mkv
 #EXTINF:-1 tvg-logo=""group-title="prueba",pr
 
 #EXTINF:-1 tvg-logo=""group-title="prueba",60
