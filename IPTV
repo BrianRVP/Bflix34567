@@ -8,8 +8,7 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/_______
 https://raw.githubusercontent.com/tokio14-dot/isa/refs/heads/main/isa2
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qeeQ7rfTAXNYh4EqqdolFLkNwKM.jpg",SIDE BY SIDE
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/SIDE%20BY%20SIDE
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEKEyEmzPAcROJ0JAefetuqCKDjYE_ejH8ng&s"group-title="", latinoamerica 
-https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/Latinoam%C3%A9rica
+
 #EXTINF:-1 tvg-logo=""group-title="",SAGAS
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/sagas
 #EXTINF:-1 tvg-logo="",pelis del recuerdo
@@ -33,8 +32,7 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/_______
 
 
 ........ TV.....
-#EXTINF:-1 tvg-logo=""group-title="Plutotv + canales",Canales
-https://telechancho.github.io/telechancho-iptv/telechancho-infinity.m3u
+
 #EXTINF:-1 tvg-logo=""group-title="Vip", Deportes
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/deportes
 #EXTINF:-1 tvg-logo=""group-title="Vip",Deportes 2
