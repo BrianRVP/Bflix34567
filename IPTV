@@ -1,5 +1,5 @@
 #EXTM3U
-EXTGRP:IPTV
+#EXTGRP:IPTV
 
 #EXTINF:-1 tvg-logo="",listas
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/_______
