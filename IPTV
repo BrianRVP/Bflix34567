@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/tokio14-dot/isa/refs/heads/main/isa2
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qeeQ7rfTAXNYh4EqqdolFLkNwKM.jpg",SIDE BY SIDE
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/SIDE%20BY%20SIDE
 
-#EXTINF:-1 tvg-logo=""group-title="",SAGAS
+#EXTINF:-1 tvg-logo="",SAGAS
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/sagas
 #EXTINF:-1 tvg-logo="",pelis del recuerdo
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis%20del%20recuerdo
@@ -43,12 +43,12 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/_______
 
 ........ TV.....
 
-#EXTINF:-1 tvg-logo=""group-title="Vip", Deportes
+#EXTINF:-1 tvg-logo="", Deportes
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/deportes
-#EXTINF:-1 tvg-logo=""group-title="Vip",Deportes 2
+#EXTINF:-1 tvg-logo="",Deportes 2
 
 
-#EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv/1604400204_458039_1604400248_noticia_normal_recorte2.jpg" group-title="",PLUTO TV
+#EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv/1604400204_458039_1604400248_noticia_normal_recorte2.jpg",PLUTO TV
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pluto%20tv
 
 
