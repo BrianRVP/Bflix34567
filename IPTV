@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTGRP:IPTV
-
+#EXTINF:-1 tvg-logo=""group-title="IPTV",IPTV
 
 
 #EXTINF:-1 tvg-logo="",
