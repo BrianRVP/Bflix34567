@@ -6,11 +6,13 @@
 
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",listas
-https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/_______
+#EXTINF:-1 tvg-logo="",deportes
+https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/deportes%20ver
+#EXTINF:-1 tvg-logo="",24/7
+https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/24/7.m3u
 
-#EXTINF:-1 tvg-logo="",Isaxd183
-https://raw.githubusercontent.com/tokio14-dot/isa/refs/heads/main/isa2
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qeeQ7rfTAXNYh4EqqdolFLkNwKM.jpg",SIDE BY SIDE
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/SIDE%20BY%20SIDE
 
@@ -31,19 +33,9 @@ https://raw.githubusercontent.com/ZeruG8/Nexus/refs/heads/main/Nexus/Nexus.m3u
 https://cinehdplus.org/episodio-tv-263299/yo-gabba-gabbalandia-2x10-ver-online-hd/
 #EXTINF:-1 tvg-logo=""group-title="prueba",60
 https://raw.githubusercontent.com/BrianRVP/Bflix34567/refs/heads/main/Podcast
-#EXTINF:-1 tvg-logo=""group-title="prueba",61
+#EXTINF:-1 tvg-logo=""group-title="prueba"
 
-
-
-
-........ TV.....
-
-#EXTINF:-1 tvg-logo="", Deportes
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/deportes
-#EXTINF:-1 tvg-logo="",Deportes 2
-
-
-#EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv/1604400204_458039_1604400248_noticia_normal_recorte2.jpg",PLUTO TV
+#EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv604400248_noticia_normal_recorte2.jpg",PLUTO TV
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pluto%20tv
 
 
