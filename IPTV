@@ -9,13 +9,12 @@
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/36/a6/31/36a63109ac37023b47038223451fe1d1.jpg",deportes
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/deportes%20ver
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/247-horas-temporizador-vector-simbolo-degradado-color_824631-669.jpg?semt=ais_hybrid&w=740&q=80",24/7
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/24/7.m3u
+https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/24/7op2.m3u
 
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qeeQ7rfTAXNYh4EqqdolFLkNwKM.jpg",SIDE BY SIDE
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/SIDE%20BY%20SIDE
-
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/178kiokz.jpeg",SAGAS
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/sagas
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/s46f8e6s.jpeg",PELIS DEL RECUERDO
