@@ -8,11 +8,14 @@
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/36/a6/31/36a63109ac37023b47038223451fe1d1.jpg",deportes
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/deportes%20ver
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/36/a6/31/36a63109ac37023b47038223451fe1d1.jpg",android y smartv
+https://raw.githubusercontent.com/Love4vn/love4vn/refs/heads/main/IPTVSport.m3u
+
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/247-horas-temporizador-vector-simbolo-degradado-color_824631-669.jpg?semt=ais_hybrid&w=740&q=80",24/7
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/24/mejor.m3u
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/0hUyZmnTKmvLGvlx31BVZnf-PfrZLr9q09gZSTrd_TE/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Z0Y2RuLm5l/dC9pbWFnZXMvdF9h/cHAtaWNvbi1zL3Av/MDJmZWVkYmEtOWIy/OC0xMWU2LWExNjEt/MDAxNjNlYzlmNWZh/LzMzODg4NTIzMjMv/cGx1dG8tdHYtaWNv/bi5wbmc",PLUTO tv pelislculas
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/Movies/VOD/Movies.m3u
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/QvRIgXnr65fUkczwU8yI2DKCSCDM2bx6LTfjOhDlm_I/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Z0Y2Ru",pluto tv
+#EXTINF:-1 tvg-logo="",pluto tv
 https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_ar.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqQKF34fRUXCSsb3Cqi_aIicdZS30ie8jwoXDxaBcH5g&s=10",TV 
 https://raw.githubusercontent.com/patron81/Roku/main/roku.m3u?fbclid=Iwb21leAPxnqRjbGNrA_GekWV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHoGL25vQlOyuz-T1e9QelXB6O9XCT6pkxlJW-F2JaWUe_cJM-THWae-KD3Y4_aem_MuUB-vBrlx-62yjKJBeo0Q
