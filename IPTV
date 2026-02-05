@@ -14,6 +14,9 @@ https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/24/mejor.m3u
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/Movies/VOD/Movies.m3u
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/QvRIgXnr65fUkczwU8yI2DKCSCDM2bx6LTfjOhDlm_I/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuc2Z0Y2Ru",pluto tv
 https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_ar.m3u
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqQKF34fRUXCSsb3Cqi_aIicdZS30ie8jwoXDxaBcH5g&s=10",TV 
+https://raw.githubusercontent.com/patron81/Roku/main/roku.m3u?fbclid=Iwb21leAPxnqRjbGNrA_GekWV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHoGL25vQlOyuz-T1e9QelXB6O9XCT6pkxlJW-F2JaWUe_cJM-THWae-KD3Y4_aem_MuUB-vBrlx-62yjKJBeo0Q
+
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qeeQ7rfTAXNYh4EqqdolFLkNwKM.jpg",SIDE BY SIDE
