@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTGRP: K-Dramas
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/94sIggRUBioP19m3vJQfV3lq6Z6.jpg",Chapel (2025)
+https://pomf2.lain.la/f/289nb381.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8DTcbtM4SoNVT2leLE3BO75gP1T.jpg",El banquete de bodas (2025)
 https://pomf2.lain.la/f/xsr0ohfp.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sld43SJArZqlnANJabq8R5wdOZk.jpg",Belleza verdadera (2020)
