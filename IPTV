@@ -13,6 +13,9 @@ https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/24/mejor.m3u
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/z2mkk1s.webp",24/7 OP2
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/247%20op2
 
+
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/178kiokz.jpeg",sagas server
+https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/sagas.m3u
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/g3qddq1.jpeg",no entrar 
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/total.m3u
 
