@@ -16,8 +16,8 @@ https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/247%20op2
 
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/178kiokz.jpeg",sagas server
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/sagas.m3u
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/g3qddq1.jpeg",no entrar 
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/total.m3u
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/g3qddq1.jpeg",peliculas server
+https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/pel%C3%ADculas.m3u
 
 
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/fd0qqgd0.png",pelis PLUTO TV
