@@ -2,10 +2,6 @@
 #EXTINF:-1 tvg-logo=""group-title="IPTV",IPTV
 
 
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/l26ywu.jpg",deportes
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/deportes%20ver
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/l26ywu.jpg",deportes op2
@@ -21,7 +17,7 @@ https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/247%20op2
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/total.m3u
 
 
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/fd0qqgd0.png",PLUTO tv pelislculas
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/fd0qqgd0.png",pelis PLUTO TV
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/Movies/VOD/Movies.m3u
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/tz5v55do32w9buthospoo/FB_IMG_1770311899070.jpg?rlkey=7rrljnd9172b3fn6rn2l3oqyh&st=ckq591nu&dl=1",pluto tv
 https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_ar.m3u
