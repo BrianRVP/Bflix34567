@@ -1,6 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://cinehdplus.org/wp-content/uploads/2026/02/k0ux5SqOmCR7b4MUHJL5vY2jNjf-185x278.jpg",salvation (2025)
+https://dl.dropbox.com/scl/fi/kqoq22m6bkdkalx10g1xx/02.mp4?rlkey=73ge3iemil92548r702btxwfo&st=ulxhqd4y&dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tQaeGKJ0g4oKoq0UU1JNayDg8FW.jpg",Susurro mortal 3 (2025)
 https://dl.dropbox.com/scl/fi/wjsx4qpo682elicbtz4yx/fisica-3.mp4?rlkey=kk8kf6e222xvzdt1e6pigaroo&st=0wbsmbtv&dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qhf5wLyWLRtDV2P9MKgzYrO6xYb.jpg",susurro mortal 2 (2024)
