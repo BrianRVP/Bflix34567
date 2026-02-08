@@ -1,12 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rRmR2w4txM6YscNsV037apPj0oF.jpg",Mad God (2021)
-https://pomf2.lain.la/f/lo7t46pc.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/105stT9GkiENXiYqvWYKoAuHKQL.jpg",Mad God (2021)
-https://pomf2.lain.la/f/oy69mo2i.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efEC2f2TJ5JfKsMXTQsh2kcKmFL.jpg",Mad God (2021)
+#EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dtPwBZjzqTaObjG4fKStRkBq1uu.jpg",Greenland 2: Migration (2026)
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rRmR2w4txM6YscNsV037apPj0oF.jpg",Mad God (2021) 1080p
+https://pomf2.lain.la/f/lo7t46pc.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/105stT9GkiENXiYqvWYKoAuHKQL.jpg",Mad God (2021) 720p
+https://pomf2.lain.la/f/oy69mo2i.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/efEC2f2TJ5JfKsMXTQsh2kcKmFL.jpg",Mad God (2021) 480p
+https://pomf2.lain.la/f/se8a792q.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dtPwBZjzqTaObjG4fKStRkBq1uu.jpg",Greenland 2 (2026)
 https://pomf2.lain.la/f/mwvltklh.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg",Greenland (2020)
 https://pomf2.lain.la/f/iyy7z3y8.mp4
