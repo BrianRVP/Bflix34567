@@ -53,8 +53,8 @@ https://raw.githubusercontent.com/ZeruG8/Nexus/refs/heads/main/Nexus/Nexus.m3u
 https://m3uedit.online/get/d9e5821a38b4e8ba7463fa3b0821977f.m3u
 #EXTINF:-1 tvg-logo=""group-title="prueba",60
 https://iptv-org.github.io/iptv/languages/spa.m3u
-#EXTINF:-1 tvg-logo=""group-title="prueba"5555
-http://186.0.248.91:20202/?watch=1271895&movie#3
+#EXTINF:-1 tvg-logo=""group-title="prueba"888
+http://186.0.248.91:20202/?index
 
 
 #EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv604400248_noticia_normal_recorte2.jpg",PLUTO TV
