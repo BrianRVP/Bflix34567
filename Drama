@@ -1,6 +1,14 @@
 #EXTM3U
 
 
+
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gIf9wgvM8meSDHW1vaCSYeX8tYS.jpg",Antes (2026)
+https://dl.dropbox.com/scl/fi/0o1x67wptztw86p7bbfiu/lengua.mp4?rlkey=9rsi9kv3wv491fw0oir4errha&st=z4m85elp&dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lQAEYXhRyOD6OQK0tKt9FAj3Kkx.jpg",Una carta a mi juventud (2026)
 https://dl dropbox.com/scl/fi/zk5eom9wimyfvy62bcnuu/sociales.mp4?rlkey=jyl7ktv15ph6h5nss3v82dh7j&st=1uemj99t&dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/40HGsaRnPsrHbFI573uOkuaHrs5.jpg",The Knife (2025)
