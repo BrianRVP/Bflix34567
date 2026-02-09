@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ea/7c/06/ea7c069e-b99f-f05e-4860-0a160af960c4/mza_9527189730086957450.jpg/1"group-title="PALABRA PLENA",PALABRA PLENA
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ea/7c/06/ea7c069e-b99f-f05e-4860-0a160af960c4/mza_9527189730086957450.jpg/1000x1000bb.jpg",La felicidad
 https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/7556490.mp3
 
@@ -20,6 +20,8 @@ https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/7533195.mp3
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/ea/7c/06/ea7c069e-b99f-f05e-4860-0a160af960c4/mza_9527189730086957450.jpg/1000x1000bb.jpg",Palabras plena
 https://dts.podtrac.com/redirect.mp3/audioboom.com/posts/7532407.mp3
 
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/86/93/62/869362bb-12ee-4dfc-c573-50715f75e895/mza_2445344883384915910.png/1000x1000bb.jpg"group-title="VENGANDA DEL PASADO", VENGANZA DEL PASADO 
 #EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/86/93/62/869362bb-12ee-4dfc-c573-50715f75e895/mza_2445344883384915910.png/1000x1000bb.jpg",Venganza del Pasado - 30-01-2026
 https://venganzasdelpasado.com.ar/2026/lavenganza_2026-01-30.mp3
 
