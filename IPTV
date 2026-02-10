@@ -3,10 +3,10 @@
 
 
 
-#EXTINF:-1 tvg-logo="",sala 1
-
-#EXTINF:-1 tvg-logo="",sala 2
-
+#EXTINF:-1 tvg-logo="",sala 1 West Ham United vs Manchester United
+http://sertw.cloud:8081/app/www001/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDI2IDEwOjI2OjE3IFBNJmhhc2hfdmFsdWU9SDJOcVhNS0hzZlFSdHRaMnJRdWN6Zz09JnZhbGlkbWludXRlcz0yMjA=
+#EXTINF:-1 tvg-logo="",sala 2 West Ham United vs Manchester United
+http://sertw.cloud:8081/app/www001/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDI2IDEwOjI5OjMwIFBNJmhhc2hfdmFsdWU9MnFzZGZ3eHJNWndiODNvenJmTTFBdz09JnZhbGlkbWludXRlcz0yMjA=
 #EXTINF:-1 tvg-logo="",sala 3
 
 #EXTINF:-1 tvg-logo="",sala 4
