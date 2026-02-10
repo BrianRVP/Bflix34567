@@ -4,19 +4,19 @@
 
 
 #EXTINF:-1 tvg-logo="",sala 1
-http://sertw.cloud:8081/app/www4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjYgMToyNjo0NiBBTSZoYXNoX3ZhbHVlPXJJdC8yUFdURDBCaWdRSzZISkFBRmc9PSZ2YWxpZG1pbnV0ZXM9MjIw
+
 #EXTINF:-1 tvg-logo="",sala 2
-http://sertw.cloud:8081/app/www4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjYgMToyOToyMSBBTSZoYXNoX3ZhbHVlPVE2TEdWSDlnYjI0Zzc2N2VFdmNRa2c9PSZ2YWxpZG1pbnV0ZXM9MjIw
+
 #EXTINF:-1 tvg-logo="",sala 3
-http://sertw.cloud:8081/app/www4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjYgMTozMDoxNSBBTSZoYXNoX3ZhbHVlPXIxUHV6M1JNRGg0aWVjTkorbmdaYXc9PSZ2YWxpZG1pbnV0ZXM9MjIw
+
 #EXTINF:-1 tvg-logo="",sala 4
-http://sertw.cloud:8081/app/www01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjYgMTozMDo1OCBBTSZoYXNoX3ZhbHVlPUtXWk5JWnIwN01hYmwwWCtZZU56WlE9PSZ2YWxpZG1pbnV0ZXM9MjIw
+
 #EXTINF:-1 tvg-logo="",sala 5
-http://sertw.cloud:8081/app/www03/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjYgMTozMTo0MCBBTSZoYXNoX3ZhbHVlPTFzQmZCbExDTjRTb1F6ME43SUlJdUE9PSZ2YWxpZG1pbnV0ZXM9MjIw
-#EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="",sala 6 Everton vs AFC Bournemouth
+http://sertw.cloud:8081/app/www006/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDI2IDEwOjIxOjE1IFBNJmhhc2hfdmFsdWU9T2RBVVZ6a3pNK1J6VlR3cEhIL0hZUT09JnZhbGlkbWludXRlcz0yMjA=
+#EXTINF:-1 tvg-logo="",sala 7 Cúcuta Deportivo vs Medellín
+http://sertw.cloud:8081/app/www007/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDI2IDEwOjIzOjQ5IFBNJmhhc2hfdmFsdWU9T0w5WXQ1bDQ3elVuNjF6bVl4ZitMdz09JnZhbGlkbWludXRlcz0yMjA=
 #EXTINF:-1 tvg-logo="",
 
 
