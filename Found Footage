@@ -1,10 +1,18 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/x84psre99S5nqaFatB8wtHVXFYA.jpg",White Oute (2025)
+https://pomf2.lain.la/f/kir7xj4.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x8ygUQ4YNd8iy0oEusS1bHI08A6.jpg",la empleada (2026)
+https://dl.dropbox.com/scl/fi/8unhr9q8biyz5bmd2rimu/fisica.mp4?rlkey=2tqa6artmf0x73m3h2y49agq6&st=asis5gq7&dl=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uFQduVyYIinJy3eLjozgfl6Xtcn.jpg",Diablo (2025)
+https://dl.dropbox.com/scl/fi/17jh9s4vkalc7dk2lxv0v/f-sica.mp4?rlkey=4hhyx5cb3qeqhzvhr3ng0w0k5&st=jjr199n7&dl=1
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3DBmBItPdy0A2ol59jgHhS54Lua.jpg",Asesinato en la Embajada (2025)
+https://pomf2.lain.la/f/0dsmds7t.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tQaeGKJ0g4oKoq0UU1JNayDg8FW.jpg",Susurro mortal 3 (2025)
 https://dl.dropbox.com/scl/fi/wjsx4qpo682elicbtz4yx/fisica-3.mp4?rlkey=kk8kf6e222xvzdt1e6pigaroo&st=0wbsmbtv&dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qhf5wLyWLRtDV2P9MKgzYrO6xYb.jpg",susurro mortal 2 (2024)
 https://dl.dropbox.com/scl/fi/jljiqqbgv12ggtqfk0dth/aociales.mp4?rlkey=31vylal79jevj64nfwjtpe2gk&st=gicpazxj&dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9v6DEfjYQpmSuMXatAbQDQ9WgZ6.jpg",Torment (2025)
 https://dl.dropbox.com/scl/fi/mcykqutzs13fyjjlk8cix/sociskes-5.mp4?rlkey=zu350dru72pqfxrykjs8vdr1w&st=fny9q6rd&dl=1
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-proyecto-de-la-bruja-de-blair.jpg" group-title="",El Proyecto de la Bruja de Blair (1999) 720p latino
-https://cache017.peliscdn.online/newhls/1a406125a15b39ff2b8bdd60ebce974a/EP.0.1.v0.1708828940.m3u8
+
