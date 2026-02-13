@@ -3,20 +3,20 @@
 
 
 
-#EXTINF:-1 tvg-logo="",sala 1 West Ham United vs Manchester United
-http://sertw.cloud:8081/app/www001/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDI2IDEwOjI2OjE3IFBNJmhhc2hfdmFsdWU9SDJOcVhNS0hzZlFSdHRaMnJRdWN6Zz09JnZhbGlkbWludXRlcz0yMjA=
-#EXTINF:-1 tvg-logo="",sala 2 West Ham United vs Manchester United
-http://sertw.cloud:8081/app/www001/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDI2IDEwOjI5OjMwIFBNJmhhc2hfdmFsdWU9MnFzZGZ3eHJNWndiODNvenJmTTFBdz09JnZhbGlkbWludXRlcz0yMjA=
+#EXTINF:-1 tvg-logo="",sala 1
+
+#EXTINF:-1 tvg-logo="",sala 2 
+
 #EXTINF:-1 tvg-logo="",sala 3
 
 #EXTINF:-1 tvg-logo="",sala 4
 
 #EXTINF:-1 tvg-logo="",sala 5
 
-#EXTINF:-1 tvg-logo="",sala 6 Everton vs AFC Bournemouth
-http://sertw.cloud:8081/app/www006/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDI2IDEwOjIxOjE1IFBNJmhhc2hfdmFsdWU9T2RBVVZ6a3pNK1J6VlR3cEhIL0hZUT09JnZhbGlkbWludXRlcz0yMjA=
-#EXTINF:-1 tvg-logo="",sala 7 Cúcuta Deportivo vs Medellín
-http://sertw.cloud:8081/app/www007/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDI2IDEwOjIzOjQ5IFBNJmhhc2hfdmFsdWU9T0w5WXQ1bDQ3elVuNjF6bVl4ZitMdz09JnZhbGlkbWludXRlcz0yMjA=
+#EXTINF:-1 tvg-logo="",sala 6 
+
+#EXTINF:-1 tvg-logo="",sala 7 
+
 #EXTINF:-1 tvg-logo="",
 
 
@@ -24,8 +24,8 @@ http://sertw.cloud:8081/app/www007/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8
 
 
 
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/l26ywu.jpg",deportes
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/deportes%20ver
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/l26ywu.jpg",deporteS
+https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/deepseek_m3u_20260209_5ab700.txt
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/l26ywu.jpg",deportes op2
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/DEPORT%202
 
