@@ -3,19 +3,19 @@
 
 
 
-#EXTINF:-1 tvg-logo="",server 1
+#EXTINF:-1 tvg-logo="http://bit.ly/4sbkPJx",server 1
 https://raw.githubusercontent.com/emiliocuesta/milista/9c34f87a7aa3719cfa5dbb21b285ed38b955f490/Nlista617
-#EXTINF:-1 tvg-logo="",server 2 
+#EXTINF:-1 tvg-logo="http://bit.ly/4sbkPJx",server 2 
 https://raw.githubusercontent.com/emiliocuesta/milista/9c34f87a7aa3719cfa5dbb21b285ed38b955f490/Nlista633
-#EXTINF:-1 tvg-logo="",server 3
+#EXTINF:-1 tvg-logo="http://bit.ly/4sbkPJx",server 3
 https://raw.githubusercontent.com/emiliocuesta/milista/9c34f87a7aa3719cfa5dbb21b285ed38b955f490/Nlista632
-#EXTINF:-1 tvg-logo="",server 4
+#EXTINF:-1 tvg-logo="http://bit.ly/4sbkPJx",server 4
 https://raw.githubusercontent.com/emiliocuesta/milista/9c34f87a7aa3719cfa5dbb21b285ed38b955f490/Nlista631
-#EXTINF:-1 tvg-logo="",server 5
+#EXTINF:-1 tvg-logo="http://bit.ly/4sbkPJx",server 5
 https://raw.githubusercontent.com/emiliocuesta/milista/9c34f87a7aa3719cfa5dbb21b285ed38b955f490/Nlista630
-#EXTINF:-1 tvg-logo="",server 6 
+#EXTINF:-1 tvg-logo="http://bit.ly/4sbkPJx",server 6 
 https://raw.githubusercontent.com/emiliocuesta/milista/refs/heads/main/Nlista634
-#EXTINF:-1 tvg-logo="",sala 7 
+#EXTINF:-1 tvg-logo="http://bit.ly/4sbkPJx",sala 7 
 
 #EXTINF:-1 tvg-logo="",
 
