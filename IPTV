@@ -1,10 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo=""group-title="IPTV",IPTV
 
-
-
-#EXTM3U
-
+HOY 14/02
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Banfield_vs_Racing.jpg",Banfield vs Racing - TNT Sports - Sab 14/02 17:30 HS
 http://46.225.94.157/hls/tnt/index.m3u8
 
