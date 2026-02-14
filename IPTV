@@ -5,10 +5,10 @@
 
 #EXTINF:-1 tvg-logo="",server 1
 https://raw.githubusercontent.com/emiliocuesta/milista/9c34f87a7aa3719cfa5dbb21b285ed38b955f490/Nlista617
-#EXTINF:-1 tvg-logo="",sala 2 
-
-#EXTINF:-1 tvg-logo="",sala 3
-
+#EXTINF:-1 tvg-logo="",server 2 
+https://raw.githubusercontent.com/emiliocuesta/milista/9c34f87a7aa3719cfa5dbb21b285ed38b955f490/Nlista633
+#EXTINF:-1 tvg-logo="",server 3
+https://raw.githubusercontent.com/emiliocuesta/milista/9c34f87a7aa3719cfa5dbb21b285ed38b955f490/Nlista632
 #EXTINF:-1 tvg-logo="",sala 4
 
 #EXTINF:-1 tvg-logo="",sala 5
