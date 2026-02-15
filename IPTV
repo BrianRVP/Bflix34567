@@ -70,8 +70,8 @@ https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/247%20op2
 
 
 mismo....
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/g3qddq1.jpeg",series server
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/Series%20%20Spanish.m3u
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/g3qddq1.jpeg",pelis server 1
+https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/Movies%20server1.m3u
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/g3qddq1.jpeg",tv server
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/tvmati.m3u
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/g3qddq1.jpeg",sagas server
