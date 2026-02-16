@@ -88,12 +88,13 @@ https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/Mo
 https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_ar.m3u
 
 
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/685tybn.jpeg",TV op2
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/685tybn.jpeg",TV OP1
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/TV
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/685tybn.jpeg",TV 
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/685tybn.jpeg",TV OP2
 https://raw.githubusercontent.com/patron81/Roku/main/roku.m3u?fbclid=Iwb21leAPxnqRjbGNrA_GekWV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHoGL25vQlOyuz-T1e9QelXB6O9XCT6pkxlJW-F2JaWUe_cJM-THWae-KD3Y4_aem_MuUB-vBrlx-62yjKJBeo0Q
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/8rinulc.png",ROKU
-https://raw.githubusercontent.com/patron81/Roku/refs/heads/main/roku.m3u
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/685tybn.jpeg",TV OP3
+https://raw.githubusercontent.com/Duartegame/listas/refs/heads/main/Premium2.m3u
+
 
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/vlzqwvix.webp",SIDE BY SIDE
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/SIDE%20BY%20SIDE
