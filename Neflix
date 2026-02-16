@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTGRP: Netflix
 
-
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uXTg565ahu9RwonCX1V2Hex1NU6.jpg",Bridgerton (2020)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Bridgerton%20(2020)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rPmbn8ATxwy3UtIHE0cLnNSEaGu.jpg"group-title="Netflix",Girl from Nowhere (2018)
 https://dl.dropbox.com/scl/fi/h3o8sax3duaf27kw5q90q/Girl-from-Nowhere-2018-op2?rlkey=mrllyu5xkszg4eeceg52snu7q&st=pwnyfajb&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tuXxPutwb1QteO4LtMISN4RAXEA.jpg"group-title="Netflix",Envidiosa (2024)
