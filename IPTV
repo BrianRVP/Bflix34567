@@ -1,40 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo=""group-title="IPTV",IPTV
 
-HOY 14/02
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Banfield_vs_Racing.jpg",Banfield vs Racing - TNT Sports - Sab 14/02 17:30 HS
-http://46.225.94.157/hls/tnt/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Talleres_vs_Gimnasia_Mza.jpg",Talleres vs Gimnasia Mza - ESPN Premium - Sab 14/02 19:45 HS
-http://46.225.94.157/hls/espn/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Huracan_vs_Sarmiento.jpg",Huracan vs Sarmiento - TNT Sports - Sab 14/02 19:45 HS
-http://46.225.94.157/hls/tnt/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Atl_Tucuman_vs_Estudiantes_RC.jpg",Atl Tucuman vs Estudiantes RC - ESPN Premium - Sab 14/02 22:00 HS
-http://46.225.94.157/hls/espn/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Ind_Rivadavia_vs_Belgrano.jpg",Ind Rivadavia vs Belgrano - TNT Sports - Sab 14/02 22:00 HS
-http://46.225.94.157/hls/tnt/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Gimnasia_LP_vs_Estudiantes.jpg",Gimnasia LP vs Estudiantes - TNT Sports - Dom 15/02 17:00 HS
-http://46.225.94.157/hls/tnt/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Boca_Juniors_vs_Platense.jpg",Boca Juniors vs Platense - ESPN Premium - Dom 15/02 19:30 HS
-http://46.225.94.157/hls/espn/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Rosario_Central_vs_Barracas_Ctral.jpg",Rosario Central vs Barracas Ctral - TNT Sports - Dom 15/02 22:00 HS
-http://46.225.94.157/hls/tnt/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Instituto_vs_C._Cordoba.jpg",Instituto vs C. Cordoba - ESPN Premium - Dom 15/02 22:00 HS
-http://46.225.94.157/hls/espn/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Dep_Riestra_vs_Newells.jpg",Dep Riestra vs Newells - TNT Sports - Lun 16/02 20:00 HS
-http://46.225.94.157/hls/tnt/index.m3u8
 
 
 
 
+#EXTINF:-1 tvg-logo=""group-title="",EVENTOS
+https://dl.dropbox.com/scl/fi/d9n6xrp813zx4o7wc56w9/tv-prueba.txt?rlkey=x7c45o26fr8x7bqqa42uv470m&st=8aic1pey&.m3u
 #EXTINF:-1 tvg-logo="http://bit.ly/4sbkPJx",server 1
 https://raw.githubusercontent.com/emiliocuesta/milista/refs/heads/main/Nlista635
 #EXTINF:-1 tvg-logo="http://bit.ly/4sbkPJx",server 2 
