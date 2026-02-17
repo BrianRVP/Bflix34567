@@ -2,6 +2,34 @@
 #EXTINF:-1 tvg-logo=""group-title="IPTV",IPTV
 
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Aldosivi_vs_San_Miguel.jpg" group-title="COPA ARGENTINA 🏆",TyC Sports - Aldosivi vs San Miguel (17/02 17:00)
+http://200.112.174.230/mtcast_tychd/mpegts
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Tigre_vs_Claypole.jpg" group-title="COPA ARGENTINA 🏆",TyC Sports - Tigre vs Claypole (17/02 19:45)
+http://200.112.174.230/mtcast_tychd/mpegts
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/River_Plate_vs_Cdad_de_Bolivar.jpg" group-title="COPA ARGENTINA 🏆",TyC Sports - River Plate vs Cdad de Bolivar (17/02 22:00)
+http://200.112.174.230/mtcast_tychd/mpegts
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Lanus_vs_Real_Pilar.jpg" group-title="COPA ARGENTINA 🏆",TyC Sports - Lanus vs Real Pilar (18/02 17:00)
+http://200.112.174.230/mtcast_tychd/mpegts
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Gimnasia_LP_vs_Excursionistas.jpg" group-title="COPA ARGENTINA 🏆",TyC Sports - Gimnasia LP vs Excursionistas (18/02 19:15)
+http://200.112.174.230/mtcast_tychd/mpegts
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Racing_vs_Ituzaingo.jpg" group-title="COPA ARGENTINA 🏆",TyC Sports - Racing vs Ituzaingo (18/02 21:30)
+http://200.112.174.230/mtcast_tychd/mpegts
+
+#EXTINF:-1 tvg-id="Eventos1.ar" tvg-name="Eventos 1 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png" group-title="🇦🇷 EVENTOS ARGENTINA",Eventos 1 ARG
+http://181.13.252.102:8000/play/a0bc
+
+#EXTINF:-1 tvg-id="Eventos2.ar" tvg-name="Eventos 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png" group-title="🇦🇷 EVENTOS ARGENTINA",Eventos 2 ARG
+http://181.13.252.102:8000/play/a078/index.m3u8
+
+
+
 
 
 
