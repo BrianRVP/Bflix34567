@@ -113,9 +113,9 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis%20del%
 #EXTINF:-1 tvg-logo=""group-title="prueba",pelis
 https://raw.githubusercontent.com/dydadi/PlusIPTV/refs/heads/main/peliculas-INFINITY-2
 #EXTINF:-1 tvg-logo=""group-title="prueba",https://krakenfiles.com/
-https://krakenfiles.com/view/Oce5X0FM8J/file.html
-#EXTINF:-1 tvg-logo=""group-title="prueba",33
-
+https://krakenfiles.com/view/Oce5X0FM8J
+#EXTINF:-1 tvg-logo=""group-title="prueba",https://fileditch.com/
+https://fileditchfiles.me/file.php?f=/b74/JrpMlfwJVbEKcvzfqiQ.mp4
 
 #EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv604400248_noticia_normal_recorte2.jpg",PLUTO TV
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pluto%20tv
