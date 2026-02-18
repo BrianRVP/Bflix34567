@@ -112,14 +112,8 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis%20del%
 --------PRUEBA__________
 #EXTINF:-1 tvg-logo=""group-title="prueba",pelis
 https://raw.githubusercontent.com/dydadi/PlusIPTV/refs/heads/main/peliculas-INFINITY-2
-#EXTINF:-1 tvg-logo=""group-title="prueba",series
-https://raw.githubusercontent.com/Chanjdm/JDM/refs/heads/main/JDM/masseries.m3u
-#EXTINF:-1 tvg-logo=""group-title="prueba",nexus
-https://raw.githubusercontent.com/ZeruG8/Nexus/refs/heads/main/Nexus/Nexus.m3u
-#EXTINF:-1 tvg-logo=""group-title="prueba",11
-
-#EXTINF:-1 tvg-logo=""group-title="prueba",22
-https://short.icu/8cf1ml5ym
+#EXTINF:-1 tvg-logo=""group-title="prueba",https://krakenfiles.com/
+https://krakenfiles.com/view/Oce5X0FM8J/file.html
 #EXTINF:-1 tvg-logo=""group-title="prueba",33
 
 
