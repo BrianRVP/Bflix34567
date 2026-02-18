@@ -49,12 +49,6 @@ https://raw.githubusercontent.com/emiliocuesta/milista/9c34f87a7aa3719cfa5dbb21b
 https://raw.githubusercontent.com/emiliocuesta/milista/refs/heads/main/Nlista634
 #EXTINF:-1 tvg-logo="http://bit.ly/4sbkPJx",sala 7 
 
-#EXTINF:-1 tvg-logo="",
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/l26ywu.jpg", funciona bien
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/deport%2014%20fe
@@ -112,13 +106,12 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis%20del%
 --------PRUEBA__________
 #EXTINF:-1 tvg-logo=""group-title="prueba",pelis
 https://raw.githubusercontent.com/dydadi/PlusIPTV/refs/heads/main/peliculas-INFINITY-2
-#EXTINF:-1 tvg-logo=""group-title="prueba",https://krakenfiles.com/
-https://krakenfiles.com/view/Oce5X0FM8J
-#EXTINF:-1 tvg-logo=""group-title="prueba",https://fileditch.com/
-https://fileditchfiles.me/file.php?f=/b74/JrpMlfwJVbEKcvzfqiQ.mp4
-#EXTINF:-1 tvg-logo=""group-title="prueba",https://gofile.io/
-https://gofile.io/d/opQnnM
+#EXTINF:-1 tvg-logo=""group-title="prueba",
 
+#EXTINF:-1 tvg-logo=""group-title="prueba",
+
+#EXTINF:-1 tvg-logo=""group-title="prueba",h
+https://pixeldrain.com/u/kqEARfYF
 
 
 
