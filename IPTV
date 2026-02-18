@@ -2,8 +2,6 @@
 #EXTINF:-1 tvg-logo=""group-title="IPTV",IPTV
 
 
-#EXTM3U
-
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Aldosivi_vs_San_Miguel.jpg" group-title="COPA ARGENTINA 🏆",TyC Sports - Aldosivi vs San Miguel (17/02 17:00)
 http://200.112.174.230/mtcast_tychd/mpegts
 
@@ -103,7 +101,7 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis%20del%
 
 
 
---------PRUEBA__________
+#EXTGRP: PRUEBA 
 #EXTINF:-1 tvg-logo=""group-title="prueba",pelis
 https://raw.githubusercontent.com/dydadi/PlusIPTV/refs/heads/main/peliculas-INFINITY-2
 #EXTINF:-1 tvg-logo=""group-title="prueba",
