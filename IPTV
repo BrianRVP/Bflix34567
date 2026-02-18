@@ -101,7 +101,8 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis%20del%
 
 
 
-#EXTGRP: PRUEBA 
+#EXTINF:-1 tvg-logo=""group-title="prueba",prueba
+
 #EXTINF:-1 tvg-logo=""group-title="prueba",pelis
 https://raw.githubusercontent.com/dydadi/PlusIPTV/refs/heads/main/peliculas-INFINITY-2
 #EXTINF:-1 tvg-logo=""group-title="prueba",
