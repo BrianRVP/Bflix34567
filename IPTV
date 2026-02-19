@@ -2,30 +2,38 @@
 #EXTINF:-1 tvg-logo=""group-title="IPTV",IPTV
 
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Aldosivi_vs_San_Miguel.jpg" group-title="COPA ARGENTINA 🏆",TyC Sports - Aldosivi vs San Miguel (17/02 17:00)
-http://200.112.174.230/mtcast_tychd/mpegts
+#EXTM3U
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Tigre_vs_Claypole.jpg" group-title="COPA ARGENTINA 🏆",TyC Sports - Tigre vs Claypole (17/02 19:45)
-http://200.112.174.230/mtcast_tychd/mpegts
-
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/River_Plate_vs_Cdad_de_Bolivar.jpg" group-title="COPA ARGENTINA 🏆",TyC Sports - River Plate vs Cdad de Bolivar (17/02 22:00)
-http://200.112.174.230/mtcast_tychd/mpegts
-
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Lanus_vs_Real_Pilar.jpg" group-title="COPA ARGENTINA 🏆",TyC Sports - Lanus vs Real Pilar (18/02 17:00)
-http://200.112.174.230/mtcast_tychd/mpegts
-
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Gimnasia_LP_vs_Excursionistas.jpg" group-title="COPA ARGENTINA 🏆",TyC Sports - Gimnasia LP vs Excursionistas (18/02 19:15)
-http://200.112.174.230/mtcast_tychd/mpegts
-
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Racing_vs_Ituzaingo.jpg" group-title="COPA ARGENTINA 🏆",TyC Sports - Racing vs Ituzaingo (18/02 21:30)
-http://200.112.174.230/mtcast_tychd/mpegts
-
-#EXTINF:-1 tvg-id="Eventos1.ar" tvg-name="Eventos 1 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png" group-title="🇦🇷 EVENTOS ARGENTINA",Eventos 1 ARG
-http://181.13.252.102:8000/play/a0bc
-
-#EXTINF:-1 tvg-id="Eventos2.ar" tvg-name="Eventos 2 ARG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/512px-Flag_of_Argentina.svg.png" group-title="🇦🇷 EVENTOS ARGENTINA",Eventos 2 ARG
-http://181.13.252.102:8000/play/a078/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Def y Justicia vs Belgrano" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Def_y_Justicia_vs_Belgrano.jpg" group-title="LIGA ARGENTINA 🏆 FECHA 6",Def y Justicia vs Belgrano (Jue 19/02 - 17:15 HS) [ESPN Premium]
+http://46.225.94.157/hls/espn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="San Lorenzo vs Estudiantes RC" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/San_Lorenzo_vs_Estudiantes_RC.jpg" group-title="LIGA ARGENTINA 🏆 FECHA 6",San Lorenzo vs Estudiantes RC (Jue 19/02 - 17:15 HS) [TNT Sports]
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ind Rivadavia vs Independiente" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Ind_Rivadavia_vs_Independiente.jpg" group-title="LIGA ARGENTINA 🏆 FECHA 6",Ind Rivadavia vs Independiente (Jue 19/02 - 19:30 HS) [ESPN Premium]
+http://46.225.94.157/hls/espn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Instituto vs Atl Tucuman" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Instituto_vs_Atl_Tucuman.jpg" group-title="LIGA ARGENTINA 🏆 FECHA 6",Instituto vs Atl Tucuman (Jue 19/02 - 19:30 HS) [TNT Sports]
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Estudiantes vs Sarmiento" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Estudiantes_vs_Sarmiento.jpg" group-title="LIGA ARGENTINA 🏆 FECHA 6",Estudiantes vs Sarmiento (Vie 20/02 - 18:00 HS) [ESPN Premium]
+http://46.225.94.157/hls/espn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boca Juniors vs Racing" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Boca_Juniors_vs_Racing.jpg" group-title="LIGA ARGENTINA 🏆 FECHA 6",Boca Juniors vs Racing (Vie 20/02 - 20:00 HS) [TNT Sports]
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gimnasia Mza vs Gimnasia LP" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Gimnasia_Mza_vs_Gimnasia_LP.jpg" group-title="LIGA ARGENTINA 🏆 FECHA 6",Gimnasia Mza vs Gimnasia LP (Vie 20/02 - 22:15 HS) [TNT Sports]
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rosario Central vs Talleres" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Rosario_Central_vs_Talleres.jpg" group-title="LIGA ARGENTINA 🏆 FECHA 6",Rosario Central vs Talleres (Vie 20/02 - 22:15 HS) [ESPN Premium]
+http://46.225.94.157/hls/espn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Platense vs Barracas Ctral" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Platense_vs_Barracas_Ctral.jpg" group-title="LIGA ARGENTINA 🏆 FECHA 6",Platense vs Barracas Ctral (Sab 21/02 - 17:00 HS) [ESPN Premium]
+http://46.225.94.157/hls/espn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Banfield vs Newells" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Banfield_vs_Newells.jpg" group-title="LIGA ARGENTINA 🏆 FECHA 6",Banfield vs Newells (Sab 21/02 - 17:00 HS) [TNT Sports]
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dep Riestra vs Huracan" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Dep_Riestra_vs_Huracan.jpg" group-title="LIGA ARGENTINA 🏆 FECHA 6",Dep Riestra vs Huracan (Sab 21/02 - 19:15 HS) [TNT Sports]
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C. Cordoba vs Tigre" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/C._Cordoba_vs_Tigre.jpg" group-title="LIGA ARGENTINA 🏆 FECHA 6",C. Cordoba vs Tigre (Sab 21/02 - 21:30 HS) [ESPN Premium]
+http://46.225.94.157/hls/espn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Velez vs River Plate" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Velez_vs_River_Plate.jpg" group-title="LIGA ARGENTINA 🏆 FECHA 6",Velez vs River Plate (Dom 22/02 - 18:30 HS) [ESPN Premium]
+http://46.225.94.157/hls/espn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Union vs Aldosivi" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Union_vs_Aldosivi.jpg" group-title="LIGA ARGENTINA 🏆 FECHA 6",Union vs Aldosivi (Dom 22/02 - 21:00 HS) [TNT Sports]
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Argentinos Jr vs Lanus" tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Argentinos_Jr_vs_Lanus.jpg" group-title="LIGA ARGENTINA 🏆 FECHA 6",Argentinos Jr vs Lanus (Dom 22/02 - 21:00 HS) [TNT Sports]
+http://46.225.94.157/hls/tnt/index.m3u8
 
 
 
