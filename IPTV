@@ -36,7 +36,6 @@ http://46.225.94.157/hls/tnt/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="IPTV",IPTV
 
 #EXTINF:-1 tvg-logo=""group-title="",EVENTOS
 https://dl.dropbox.com/scl/fi/d9n6xrp813zx4o7wc56w9/tv-prueba.txt?rlkey=x7c45o26fr8x7bqqa42uv470m&st=8aic1pey&.m3u
@@ -108,39 +107,8 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis%20del%
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="prueba",prueba
-https://thegumonmyshoe.me/b75/CawJvAAzaWwVqUwpPuLZ.mp4?md5=igKAgcH_NmCRfSkY3togrQ&expires=1771490537
-#EXTINF:-1 tvg-logo=""group-title="prueba",pelis
-https://raw.githubusercontent.com/dydadi/PlusIPTV/refs/heads/main/peliculas-INFINITY-2
-#EXTINF:-1 tvg-logo=""group-title="prueba",
-
-#EXTINF:-1 tvg-logo=""group-title="prueba",tvlibre
-https://tvlibree.com/html/fl/?get=QW1lcmljYVRW
-
-#EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv604400248_noticia_normal_recorte2.jpg",PLUTO TV
-https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pluto%20tv
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-.........---------
-
-
-
-
-
-
-
-......
