@@ -107,12 +107,8 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis%20del%
 https://raw.githubusercontent.com/dydadi/PlusIPTV/refs/heads/main/peliculas-INFINITY-2
 #EXTINF:-1 tvg-logo=""group-title="prueba",
 
-#EXTINF:-1 tvg-logo=""group-title="prueba",fastream
-https://fastream.to/fomf9jt6gvyr
-#EXTINF:-1 tvg-logo=""group-title="prueba",h
-https://pixeldrain.com/u/kqEARfYF
-
-
+#EXTINF:-1 tvg-logo=""group-title="prueba",tvlibre
+https://tvlibree.com/html/fl/?get=QW1lcmljYVRW
 
 #EXTINF:-1 tvg-logo="https://d500.epimg.net/cincodias/imagenes/2020/11/03/smarttv604400248_noticia_normal_recorte2.jpg",PLUTO TV
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Pluto%20tv
