@@ -1,6 +1,16 @@
 #EXTM3U
 #EXTGRP: Netflix
 
+
+
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/18jsL1sUIDL3ice67KoNkq22K6m.jpg",Free Bert (2026)
+https://dl.dropbox.com/scl/fi/198jmctgkh7fcp2b9dd1o/Free-Bert-2026.m3u?rlkey=ss3eow9fjx2dmfff6b4lcijvc&st=280txcrx&.m3u
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7t6iXlbfoBSfVyINLRHms5kqfze.jpg",Finding Her Edge (2026)
+https://dl.dropbox.com/scl/fi/vzxjiwbc0kr15g0rmnp65/Finding-Her-Edge-2026.m3u?rlkey=9hml67w2gwx6imb31pdnmur83&st=8ch7pvsf&.m3u
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uXTg565ahu9RwonCX1V2Hex1NU6.jpg",Bridgerton (2020)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Bridgerton%20(2020)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rPmbn8ATxwy3UtIHE0cLnNSEaGu.jpg"group-title="Netflix",Girl from Nowhere (2018)
