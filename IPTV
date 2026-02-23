@@ -1,7 +1,8 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 tvg-logo="",seriesnet
+https://raw.githubusercontent.com/TIGRE9725/PELIS/refs/heads/main/netvideo.series.m3u
 #EXTINF:-1 tvg-logo="",pelis 2
 https://raw.githubusercontent.com/TIGRE9725/btv-auto/refs/heads/main/lista_server.m3u
 #EXTINF:-1 tvg-logo="",series
