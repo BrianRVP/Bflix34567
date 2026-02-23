@@ -3,11 +3,11 @@
 
 
 #EXTINF:-1 tvg-logo="",pelis 2
-bit.ly/mati22
+https://raw.githubusercontent.com/TIGRE9725/btv-auto/refs/heads/main/lista_server.m3u
 #EXTINF:-1 tvg-logo="",series
-bit.ly/pelisnet
+https://raw.githubusercontent.com/TIGRE9725/btv-auto/refs/heads/main/playlist_series.m3u
 #EXTINF:-1 tvg-logo="",series
-bit.ly/mati20
+https://raw.githubusercontent.com/TIGRE9725/btv-auto/refs/heads/main/playlist_series.m3u
 #EXTINF:-1 tvg-logo="",series 2
 bit.ly/mati19
 #EXTINF:-1 tvg-logo="",pelis
