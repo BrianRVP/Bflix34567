@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTGRP: Netflix
 
-..#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="",
 
