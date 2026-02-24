@@ -5,6 +5,10 @@
 
 #EXTINF:-1 tvg-logo="",
 
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DARK.jpg" group-title="Netflix",DARK
+http://archive.org/download/ns_20210520/DARK.m3u
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7A37vpIWIAQqaoFtnzaVSVKcaZ7.jpg",Cómo llegar al cielo desde Belfast (2026)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/C%C3%B3mo%20llegar%20al%20cielo%20desde%20Belfast%20(2026).m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg",en el barro (2025)
@@ -208,9 +212,6 @@ https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/he
 http://archive.org/download/ns_20210520/CLUBCUERVOS.m3u 
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/COBRA KAI.jpg" group-title="Netflix",COBRA KAI
 https://archive.org/download/si2_20220111/CK.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DARK.jpg" group-title="Netflix",DARK
-http://archive.org/download/ns_20210520/DARK.m3u
-
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DAYBREAK.jpg" group-title="Netflix",DAYBREAK
 http://archive.org/download/t-1dbfifkdudkx_202010/T1dbfifkdudkx.m3u
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/alice-in-borderland-2-1607758082.jpg" group-title="Netflix",Alice in borderlandd
