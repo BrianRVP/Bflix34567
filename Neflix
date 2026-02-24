@@ -6,9 +6,8 @@
 #EXTINF:-1 tvg-logo="",
 
 
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/DARK.jpg" group-title="Netflix",DARK
-http://archive.org/download/ns_20210520/DARK.m3u
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zqZ9N1BSRVk8LKlYpRIQI8fHzAs.jpg" group-title="Netflix",Dark (2017)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Dark%20(2017).m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7A37vpIWIAQqaoFtnzaVSVKcaZ7.jpg",Cómo llegar al cielo desde Belfast (2026)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/C%C3%B3mo%20llegar%20al%20cielo%20desde%20Belfast%20(2026).m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xJCzIdSHV0d5lwbhaCWldlikKdU.jpg",en el barro (2025)
