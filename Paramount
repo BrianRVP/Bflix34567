@@ -1,8 +1,12 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",Tulsa King (2022)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Tulsa%20King%20(2022)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/upUOfPAMhjWDPu8R31r9YvYDfum.jpg"group-title="Paramount+",Girl Taken (2026)
 https://dl.dropbox.com/scl/fi/n16iabdvsoja2uzf0aa4t/Girl-Taken-2026?rlkey=ugvp1be6yqz15os98assv62tt&st=bawvq1lk&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2fnr8xSGyjdh1b3oqkVIb4sDBwr.jpg"group-title="Paramount+",Evil (2019)
