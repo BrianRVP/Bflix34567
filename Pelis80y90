@@ -172,6 +172,9 @@ https://cache005.peliscdn.online/newhls/1a1d259114c9ffd19a2114d0ddff2a09/EP.0.1.
 https://cache007.peliscdn.online/newhls/64c05f2ff65c1f4985aea453e6a5d3d8/EP.0.1.v0.1708910425.720.m3u8
 
 #EXTGRP:Terror
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dUvZDNU9G0njhM628NA5phASntq.jpg"group-title="terror",Urban Legend (1998)
+https://archive.org/download/247218-8c-2596a-6-d-922-45d-8-9be-1-ecbc-98c-9c-8c-6-clsh-2171149-1fichier/247218--8c2596a6-d922-45d8-9be1-ecbc98c9c8c6--clsh--2171149-1fichier.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7GfrMFZuxqq1FdSZRtKflPOwoAv.jpg" group-title="Terror",Chucky 1 (1988) 720p latino
 https://dl.dropboxusercontent.com/scl/fi/8mxou5u11czl1az3l866v/CH1UEKY-1.mp4?rlkey=3fwxzq0v9qw95pzv2oqusma2f&st=lonrann3
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sg0GuCbEdGMoDlpv33oP6Z5x1g6.jpg", group-title="Terror",Chucky 2 (1990) 720p latino
