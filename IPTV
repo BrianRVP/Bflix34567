@@ -1,6 +1,26 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Gimnasia_LP_vs_Rosario_Central.jpg",Gimnasia LP vs Rosario Central | TNT Sports | Mie 25/02 17:00 HS
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Barracas_Ctral_vs_Tigre.jpg",Barracas Ctral vs Tigre | ESPN Premium | Mie 25/02 17:00 HS
+http://46.225.94.157/hls/espn/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Newells_vs_Estudiantes.jpg",Newells vs Estudiantes | ESPN Premium | Mie 25/02 19:30 HS
+http://46.225.94.157/hls/espn/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Velez_vs_Dep_Riestra.jpg",Velez vs Dep Riestra | TNT Sports | Mie 25/02 19:30 HS
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Sarmiento_vs_Union.jpg",Sarmiento vs Union | TNT Sports | Jue 26/02 17:15 HS
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Racing_vs_Ind_Rivadavia.jpg",Racing vs Ind Rivadavia | ESPN Premium | Jue 26/02 17:15 HS
+http://46.225.94.157/hls/espn/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/River_Plate_vs_Banfield.jpg",River Plate vs Banfield | TNT Sports | Jue 26/02 19:30 HS
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Estudiantes_RC_vs_Huracan.jpg",Estudiantes RC vs Huracan | ESPN Premium | Jue 26/02 19:30 HS
+http://46.225.94.157/hls/espn/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="",seriesnet
 https://raw.githubusercontent.com/TIGRE9725/PELIS/refs/heads/main/netvideo.series.m3u
 #EXTINF:-1 tvg-logo="",pelis 2
