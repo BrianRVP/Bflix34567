@@ -1,27 +1,23 @@
 #EXTM3U
 
-#EXTGRP:FAMILIAR
-
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kYyxouNI4j0LaGDxlRzmYMAtnxb.jpg",solos con nuestro tio (1989)
+*FAMILIAR
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kYyxouNI4j0LaGDxlRzmYMAtnxb.jpg" group-title="FAMILIAR",Solos con nuestro tío (1989)
 https://pomf2.lain.la/f/v2bxjqsn.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bTRb1i8TiCGMhomnFzWexRtNkHd.jpg",Little Indian, Big City (1994)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bTRb1i8TiCGMhomnFzWexRtNkHd.jpg" group-title="FAMILIAR",Little Indian, Big City (1994)
 https://pomf2.lain.la/f/rcs8iwyr.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mArShSmLgt8YQQEyX2V5qLVSoGR.jpg",James and the Giant Peach (1996)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mArShSmLgt8YQQEyX2V5qLVSoGR.jpg" group-title="FAMILIAR",James and the Giant Peach (1996)
 https://pomf2.lain.la/f/q0gbbast.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg",The Santa Clause (1994)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg" group-title="FAMILIAR",The Santa Clause (1994)
 https://pomf2.lain.la/f/sv12oz65.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oSNX3zyTpRMN0ExtOobt7eaJfPD.jpg",Ed (1996)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oSNX3zyTpRMN0ExtOobt7eaJfPD.jpg" group-title="FAMILIAR",Ed (1996)
 https://pomf2.lain.la/f/gmnsbcf.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odUW8lKgpJHX6ilcUYIderenTxZ.jpg",Warlock (1989)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odUW8lKgpJHX6ilcUYIderenTxZ.jpg" group-title="FAMILIAR",Warlock (1989)
 https://archive.org/download/naturales-1/naturales%202.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oprNZ2BvJG9ZV2g3JYeWQgsOZHe.jpg",1Michael (1996)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oprNZ2BvJG9ZV2g3JYeWQgsOZHe.jpg" group-title="FAMILIAR",Michael (1996)
 https://archive.org/download/naturales-1/naturales%201.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6z2oORuaAmL1K5ZmWz0pHLtxtna.jpg",Harry y los Henderson (1987)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6z2oORuaAmL1K5ZmWz0pHLtxtna.jpg" group-title="FAMILIAR",Harry y los Henderson (1987)
 https://dl.dropbox.com/scl/fi/fcrap2clgv42y19fdgvul/sociales.mp4?rlkey=l1ybbj6m5zbnciu3jwr46vj06&st=y8ul50iu&dl=0
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3wsQlRUdaHd65Z8baqBA1Y98PQ.jpg",Qué sueños pueden venir (1998)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3wsQlRUdaHd65Z8baqBA1Y98PQ.jpg" group-title="FAMILIAR",Qué sueños pueden venir (1998)
 https://archive.org/download/mas-alla-de-los-suenos_202507/m%C3%A1s%20all%C3%A1%20de%20los%20sue%C3%B1os.mp4
 
 
