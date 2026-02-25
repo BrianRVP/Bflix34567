@@ -3,9 +3,8 @@
 
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",
-
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o8ekdtv98EnrymVLw3VJ2WoFBoM.jpg",Fresh Off the Boat (2015)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Fresh%20Off%20the%20Boat%20(2015).m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zqZ9N1BSRVk8LKlYpRIQI8fHzAs.jpg" group-title="Netflix",Dark (2017)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Dark%20(2017).m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7A37vpIWIAQqaoFtnzaVSVKcaZ7.jpg",Cómo llegar al cielo desde Belfast (2026)
