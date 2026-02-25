@@ -1,5 +1,15 @@
 #EXTM3U
 
+
+comedia
+
+#EXTINF:-1 tvg-logo=""group-title="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/899yWih4ic8AyczedYiX41g7TvQ.jpg"group-title="Comedia",Ace Ventura: Cuando la naturaleza llama (1995)
+https://archive.org/download/0077-ace-ventura-2-1995-720p-d-sspa-v/0077-Ace%20Ventura%202%20%281995%29%20720p%20D%20Sspa%20v.mkv
+
+
+
 *FAMILIAR
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kYyxouNI4j0LaGDxlRzmYMAtnxb.jpg" group-title="FAMILIAR",Solos con nuestro tío (1989)
 https://pomf2.lain.la/f/v2bxjqsn.mp4
