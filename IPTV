@@ -1,22 +1,36 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Gimnasia_LP_vs_Rosario_Central.jpg",Gimnasia LP vs Rosario Central | TNT Sports | Mie 25/02 17:00 HS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Boca_Juniors_vs_Gimnasia_Mza.jpg",Boca Juniors vs Gimnasia Mza | TNT Sports | Sab 28/02 17:45 HS
 http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Barracas_Ctral_vs_Tigre.jpg",Barracas Ctral vs Tigre | ESPN Premium | Mie 25/02 17:00 HS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Independiente_vs_C._Cordoba.jpg",Independiente vs C. Cordoba | ESPN Premium | Sab 28/02 20:00 HS
 http://46.225.94.157/hls/espn/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Newells_vs_Estudiantes.jpg",Newells vs Estudiantes | ESPN Premium | Mie 25/02 19:30 HS
-http://46.225.94.157/hls/espn/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Velez_vs_Dep_Riestra.jpg",Velez vs Dep Riestra | TNT Sports | Mie 25/02 19:30 HS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Talleres_vs_San_Lorenzo.jpg",Talleres vs San Lorenzo | TNT Sports | Sab 28/02 22:15 HS
 http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Sarmiento_vs_Union.jpg",Sarmiento vs Union | TNT Sports | Jue 26/02 17:15 HS
-http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Racing_vs_Ind_Rivadavia.jpg",Racing vs Ind Rivadavia | ESPN Premium | Jue 26/02 17:15 HS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Newells_vs_Rosario_Central.jpg",Newells vs Rosario Central | ESPN Premium | Dom 01/03 17:00 HS
 http://46.225.94.157/hls/espn/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/River_Plate_vs_Banfield.jpg",River Plate vs Banfield | TNT Sports | Jue 26/02 19:30 HS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Argentinos_Jr_vs_Barracas_Ctral.jpg",Argentinos Jr vs Barracas Ctral | TNT Sports | Dom 01/03 19:15 HS
 http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Estudiantes_RC_vs_Huracan.jpg",Estudiantes RC vs Huracan | ESPN Premium | Jue 26/02 19:30 HS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Instituto_vs_Union.jpg",Instituto vs Union | ESPN Premium | Dom 01/03 19:15 HS
 http://46.225.94.157/hls/espn/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Tigre_vs_Gimnasia_LP.jpg",Tigre vs Gimnasia LP | TNT Sports | Dom 01/03 21:30 HS
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Def_y_Justicia_vs_Lanus.jpg",Def y Justicia vs Lanus | ESPN Premium | Dom 01/03 21:30 HS
+http://46.225.94.157/hls/espn/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Estudiantes_vs_Velez.jpg",Estudiantes vs Velez | ESPN Premium | Lun 02/03 19:15 HS
+http://46.225.94.157/hls/espn/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Dep_Riestra_vs_Platense.jpg",Dep Riestra vs Platense | TNT Sports | Lun 02/03 19:15 HS
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Ind_Rivadavia_vs_River_Plate.jpg",Ind Rivadavia vs River Plate | ESPN Premium | Lun 02/03 21:30 HS
+http://46.225.94.157/hls/espn/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Banfield_vs_Aldosivi.jpg",Banfield vs Aldosivi | TNT Sports | Lun 02/03 21:30 HS
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Sarmiento_vs_Estudiantes_RC.jpg",Sarmiento vs Estudiantes RC | TNT Sports | Mar 03/03 19:00 HS
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Atl_Tucuman_vs_Racing.jpg",Atl Tucuman vs Racing | TNT Sports | Mar 03/03 21:15 HS
+http://46.225.94.157/hls/tnt/index.m3u8
+
+
 
 
 
