@@ -68,16 +68,13 @@ https://raw.githubusercontent.com/emiliocuesta/milista/9c34f87a7aa3719cfa5dbb21b
 https://raw.githubusercontent.com/emiliocuesta/milista/refs/heads/main/Nlista634
 
 
-
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/z2mkk1s.webp",24/7
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/24/mejor.m3u
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/z2mkk1s.webp",24/7 OP2
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/247%20op2
 
 
 
 mismo....
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/g3qddq1.jpeg",pelis server 1
+#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/g3qddq1.jpeg",pelis 1 server
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/Movies%20server1.m3u
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/g3qddq1.jpeg",pelis 2 server
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/Movies%20server2.m3u
