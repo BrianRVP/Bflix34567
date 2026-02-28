@@ -1,5 +1,12 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qhyyyWrHUbl6QG4udAJj17CBa5.jpg",Pose (2026)
+https://dl.dropbox.com/scl/fi/ijptp7rxflyr1nyy90s22/lengua.mp4?rlkey=s6ue1dhd5hd9fgnhibu1bnl8n&st=2ylx9avu&dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bQEPVGPFdMleWwTnqsEKLSg20ft.jpg",Lobos contra el mundo (2024)
 https://www.dropbox.com/scl/fi/l6sgb5ls1f15cn0uv9btw/sociales.mp4?rlkey=9jhdi67129kqwngm725tnsrhq&st=t2xc9vjv&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lnhmA6s12I3SJjQNqrcQxR3PU34.jpg",El exorcismo de San Patricio (2024)
