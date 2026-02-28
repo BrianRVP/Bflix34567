@@ -43,6 +43,8 @@ https://raw.githubusercontent.com/TIGRE9725/btv-auto/refs/heads/main/lista_serve
 #EXTINF:-1 tvg-logo="",series 1
 https://raw.githubusercontent.com/TIGRE9725/btv-auto/refs/heads/main/playlist_series.m3u
 
+https://raw.githubusercontent.com/TIGRE9725/btv-auto/eebb53f26aeb804a26b3e73b093f2ee7826e4428/lista_server.m3u
+
 #EXTINF:-1 tvg-logo="",series 2
 https://raw.githubusercontent.com/TIGRE9725/btv-auto/eebb53f26aeb804a26b3e73b093f2ee7826e4428/playlist_series.m3u
 #EXTINF:-1 tvg-logo="",series 3
