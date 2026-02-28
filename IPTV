@@ -82,8 +82,8 @@ mismo....
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/Movies%20server1.m3u
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/g3qddq1.jpeg",pelis 2 server
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/Movies%20server2.m3u
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/g3qddq1.jpeg",tv server
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/tvmati.m3u
+
+
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/g3qddq1.jpeg",sagas server
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/sagas.m3u
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/g3qddq1.jpeg",peliculas server
