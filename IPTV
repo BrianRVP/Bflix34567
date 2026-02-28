@@ -9,7 +9,7 @@ httpsttpsEXTM3U
 #EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWJGDFCZ/UFC.jpg",UFC
-https://kh5vy.envivoslatam.org/paramount3/tracks-v1a1/mono.m3u8?ip=181.9.208.215&token=1b960234838ecbbc8c78577ceede691c73fb1024-d5-1772361892-1772307892
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Boca_Juniors_vs_Gimnasia_Mza.jpg",Boca Juniors vs Gimnasia Mza | TNT Sports | Sab 28/02 17:45 HS
 http://46.225.94.157/hls/tnt/index.m3u8
