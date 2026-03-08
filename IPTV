@@ -1,15 +1,15 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="",GRAN HERMANO CAM 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="", CAM 1
 http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/454927.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="",GRAN HERMANO CAM 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="", CAM 2
 http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/454928.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="",GRAN HERMANO CAM 3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="", CAM 3
 http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/454929.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="",GRAN HERMANO MULTICAMARA
 http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/454930.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.ciudad.com.ar%2Fresizer%2Fv2%2Fgran-hermano-2026-todo-lo-que-se-sabe-sobre-la-nueva-edicion-generacion-dorada-credito-telefe-XF3TUX2NKRGN7CZS4D5EITDPPM.jpg%3Fauth%3Ddd61427fff3dd9df9ce5c2aaf4cdd252665b1535a01f1c9a2464c607eee83c11%26width%3D767&sp=1772030580Tc59063515b1f3f0e93f7cde59dcfbea6cd62f283df118488f885c97975425d78" group-title="",⭐*GR∆N HE®M∆N0 ∆RGĘNTlN∆ en prueba!! ☀️⭐
+#EXTINF:-1 tvg-id="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="",∆RGĘNTlN∆ en prueba
 http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/453157.m3u8
 
 
