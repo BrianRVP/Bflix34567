@@ -21,20 +21,11 @@ http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/428790.m3u8
 http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/428793.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Ind_Rivadavia_vs_River_Plate.jpg",Ind Rivadavia vs River Plate | ESPN Premium | Lun 02/03 21:30 HS
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XmF9y8D.png",ESPN Premium
 http://46.225.94.157/hls/espn/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Banfield_vs_Aldosivi.jpg",Banfield vs Aldosivi | TNT Sports | Lun 02/03 21:30 HS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8tVwmDh.png",TNT Sports
 http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Estudiantes_vs_Velez.jpg",Estudiantes vs Velez | ESPN Premium | Lun 02/03 19:15 HS
-http://46.225.94.157/hls/espn/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Dep_Riestra_vs_Platense.jpg",Dep Riestra vs Platense | TNT Sports | Lun 02/03 19:15 HS
-http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Sarmiento_vs_Estudiantes_RC.jpg",Sarmiento vs Estudiantes RC | TNT Sports | Mar 03/03 19:00 HS
-http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Atl_Tucuman_vs_Racing.jpg",Atl Tucuman vs Racing | TNT Sports | Mar 03/03 21:15 HS
-http://46.225.94.157/hls/tnt/index.m3u8
-
-
 
 
 
