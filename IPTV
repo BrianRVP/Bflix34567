@@ -1,6 +1,17 @@
 #EXTM3U
 
 
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIDTS9agc6-JzeF9DDRCC4OJUKXaizVnESNEwTwzQnWNITDgiuz5ZdA_P&s=10" group-title=",⏩ UFC 01 ⏪
+http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/428790.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIDTS9agc6-JzeF9DDRCC4OJUKXaizVnESNEwTwzQnWNITDgiuz5ZdA_P&s=10" group-title=",⏩ UFC 02 ⏪
+http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/428793.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Ind_Rivadavia_vs_River_Plate.jpg",Ind Rivadavia vs River Plate | ESPN Premium | Lun 02/03 21:30 HS
 http://46.225.94.157/hls/espn/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Banfield_vs_Aldosivi.jpg",Banfield vs Aldosivi | TNT Sports | Lun 02/03 21:30 HS
