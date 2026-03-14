@@ -26,13 +26,6 @@ http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/453157.m3u8
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIDTS9agc6-JzeF9DDRCC4OJUKXaizVnESNEwTwzQnWNITDgiuz5ZdA_P&s=10" group-title=",⏩ UFC 01 ⏪
-http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/428790.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIDTS9agc6-JzeF9DDRCC4OJUKXaizVnESNEwTwzQnWNITDgiuz5ZdA_P&s=10" group-title=",⏩ UFC 02 ⏪
-http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/428793.m3u8
-
-
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XmF9y8D.png",ESPN Premium
 http://46.225.94.157/hls/espn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8tVwmDh.png",TNT Sports
