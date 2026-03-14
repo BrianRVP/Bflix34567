@@ -20,7 +20,7 @@ http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/454928.m3u8
 http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/454929.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="",GRAN HERMANO MULTICAMARA
 http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/454930.m3u8
-#EXTINF:-1 tvg-id="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="",∆RGĘNTlN∆ en prueba
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg",∆RGĘNTlN∆ en prueba
 http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/453157.m3u8
 
 
