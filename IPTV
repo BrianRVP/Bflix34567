@@ -60,8 +60,6 @@ https://raw.githubusercontent.com/emiliocuesta/milista/refs/heads/main/Nlista636
 mismo....
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/g3qddq1.jpeg",pelis 1 server
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/Movies%20server1.m3u
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/g3qddq1.jpeg",peliculas server
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/pel%C3%ADculas.m3u
 
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/z2mkk1s.webp",24/7 server
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/247%20op2
