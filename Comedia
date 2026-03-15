@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/wqQPjI8RpXL9q9INsGr0UbQhkzA.jpg",La única opción (2025)
+https://dl.dropbox.com/scl/fi/ofi2d8y0cykpv4hvhfu0b/f-sica.mp4?rlkey=w5onotmkzfwjtt15g4u9dibq5&st=g9ntwc49&dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ckBRproYQsXAJGtyejKjDr5ZcBU.jpg",parque Lezama (2026)
 https://dl.dropbox.com/scl/fi/z6djk104j82dirdq4645z/lengua.mp4?rlkey=3aedlguzr9a768xtbx1w1vtzo&st=c6vjt8f4&dl=1
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_paseo_8_La_luna_de_hiel-672220615-large.jpg",El paseo 8 La luna de hiel (2025)
