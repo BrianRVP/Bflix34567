@@ -2,34 +2,55 @@
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="",Platense vs Velez | ESPN Premium | Sab 14/03 19:00 HS
+http://46.225.94.157/hls/espn/index.m3u8
+#EXTINF:-1 tvg-logo="",Rosario Central vs Banfield | TNT Sports | Sab 14/03 21:00 HS
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="",Gimnasia LP vs Ind Rivadavia | TNT Sports | Dom 15/03 15:15 HS
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="",Belgrano vs Talleres | TNT Sports | Dom 15/03 17:30 HS
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="",River Plate vs Sarmiento | ESPN Premium | Dom 15/03 19:45 HS
+http://46.225.94.157/hls/espn/index.m3u8
+#EXTINF:-1 tvg-logo="",Union vs Boca Juniors | TNT Sports | Dom 15/03 22:00 HS
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="",Tigre vs Argentinos Jr | ESPN Premium | Dom 15/03 22:00 HS
+http://46.225.94.157/hls/espn/index.m3u8
+#EXTINF:-1 tvg-logo="",Barracas Ctral vs Atl Tucuman | TNT Sports | Lun 16/03 15:30 HS
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="",Aldosivi vs Huracan | ESPN Premium | Lun 16/03 15:30 HS
+http://46.225.94.157/hls/espn/index.m3u8
+#EXTINF:-1 tvg-logo="",San Lorenzo vs Def y Justicia | TNT Sports | Lun 16/03 18:30 HS
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="",Racing vs Estudiantes RC | ESPN Premium | Lun 16/03 20:00 HS
+http://46.225.94.157/hls/espn/index.m3u8
+#EXTINF:-1 tvg-logo="",Instituto vs Independiente | TNT Sports | Lun 16/03 22:15 HS
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="",Lanus vs Newells | ESPN Premium | Mar 17/03 19:00 HS
+http://46.225.94.157/hls/espn/index.m3u8
+#EXTINF:-1 tvg-logo="",C. Cordoba vs Dep Riestra | TNT Sports | Mar 17/03 21:15 HS
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="",Gimnasia Mza vs Estudiantes | ESPN Premium | Mar 17/03 21:15 HS
+http://46.225.94.157/hls/espn/index.m3u8
 
-#EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",F1
-http://xdplus.site:8880/live/DBFCM/WKENW/639810.ts
 #EXTINF:-1 tvg-logo="",F1
 http://xdplus.site:8880/live/DBFCM/WKENW/531500.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="", CAM 1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", CAM 1
 http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/454927.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="", CAM 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", CAM 2
 http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/454928.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="", CAM 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", CAM 3
 http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/454929.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="",GRAN HERMANO MULTICAMARA
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",GRAN HERMANO MULTICAMARA
 http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/454930.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg",∆RGĘNTlN∆ en prueba
+#EXTINF:-1 tvg-logo="",∆RGĘNTlN∆ en prueba
 http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/453157.m3u8
 
 
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XmF9y8D.png",ESPN Premium
-http://46.225.94.157/hls/espn/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8tVwmDh.png",TNT Sports
-http://46.225.94.157/hls/tnt/index.m3u8
 
 
 
