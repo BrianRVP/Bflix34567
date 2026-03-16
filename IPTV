@@ -1,31 +1,34 @@
 #EXTM3U
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Gimnasia_LP_vs_Ind_Rivadavia.jpg" group-title="LIGA ARGENTINA",Gimnasia LP vs Ind Rivadavia (Dom 15/03 | 15:15 HS) [TNT Sports]
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Gimnasia_LP_vs_Ind_Rivadavia.jpg",Gimnasia LP vs Ind Rivadavia
 http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Belgrano_vs_Talleres.jpg" group-title="LIGA ARGENTINA",Belgrano vs Talleres (Dom 15/03 | 17:30 HS) [TNT Sports]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Belgrano_vs_Talleres.jpg",Belgrano vs Talleres
 http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/River_Plate_vs_Sarmiento.jpg" group-title="LIGA ARGENTINA",River Plate vs Sarmiento (Dom 15/03 | 19:45 HS) [ESPN Premium]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/River_Plate_vs_Sarmiento.jpg",River Plate vs Sarmiento
 http://46.225.94.157/hls/espn/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Union_vs_Boca_Juniors.jpg" group-title="LIGA ARGENTINA",Unión vs Boca Juniors (Dom 15/03 | 22:00 HS) [TNT Sports]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Union_vs_Boca_Juniors.jpg",Unión vs Boca Juniors
 http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Tigre_vs_Argentinos_Jr.jpg" group-title="LIGA ARGENTINA",Tigre vs Argentinos Jr (Dom 15/03 | 22:00 HS) [ESPN Premium]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Tigre_vs_Argentinos_Jr.jpg",Tigre vs Argentinos Jr
 http://46.225.94.157/hls/espn/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Barracas_Ctral_vs_Atl_Tucuman.jpg" group-title="LIGA ARGENTINA",Barracas Ctral vs Atl Tucumán (Lunes 16/03 | 15:30 HS) [TNT Sports]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Barracas_Ctral_vs_Atl_Tucuman.jpg",Barracas Ctral vs Atl Tucumán
 http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Aldosivi_vs_Huracan.jpg" group-title="LIGA ARGENTINA",Aldosivi vs Huracán (Lunes 16/03 | 15:30 HS) [ESPN Premium]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Aldosivi_vs_Huracan.jpg",Aldosivi vs Huracán
 http://46.225.94.157/hls/espn/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/San_Lorenzo_vs_Def_y_Justicia.jpg" group-title="LIGA ARGENTINA",San Lorenzo vs Def y Justicia (Lunes 16/03 | 18:30 HS) [TNT Sports]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/San_Lorenzo_vs_Def_y_Justicia.jpg",San Lorenzo vs Def y Justicia
 http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Racing_vs_Estudiantes_RC.jpg" group-title="LIGA ARGENTINA",Racing vs Estudiantes RC (Lunes 16/03 | 20:00 HS) [ESPN Premium]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Racing_vs_Estudiantes_RC.jpg",Racing vs Estudiantes RC
 http://46.225.94.157/hls/espn/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Instituto_vs_Independiente.jpg" group-title="LIGA ARGENTINA",Instituto vs Independiente (Lunes 16/03 | 22:15 HS) [TNT Sports]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Instituto_vs_Independiente.jpg",Instituto vs Independiente
 http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Lanus_vs_Newells.jpg" group-title="LIGA ARGENTINA",Lanús vs Newells (Mar 17/03 | 19:00 HS) [ESPN Premium]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Lanus_vs_Newells.jpg",Lanús vs Newells
 http://46.225.94.157/hls/espn/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/C._Cordoba_vs_Dep_Riestra.jpg" group-title="LIGA ARGENTINA",C. Córdoba vs Dep Riestra (Mar 17/03 | 21:15 HS) [TNT Sports]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/C._Cordoba_vs_Dep_Riestra.jpg",C. Córdoba vs Dep Riestra
 http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Gimnasia_Mza_vs_Estudiantes.jpg" group-title="LIGA ARGENTINA",Gimnasia Mza vs Estudiantes (Mar 17/03 | 21:15 HS) [ESPN Premium]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Gimnasia_Mza_vs_Estudiantes.jpg",Gimnasia Mza vs Estudiantes
 http://46.225.94.157/hls/espn/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="",F1
@@ -37,7 +40,7 @@ http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/454927.m3u8
 http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/454928.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", CAM 3
 http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/454929.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",GRAN HERMANO MULTICAMARA
+#EXTINF:-1 tvg-id="" http="" group-title="",GRAN HERMANO MULTICAMARA
 http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/454930.m3u8
 #EXTINF:-1 tvg-logo="",∆RGĘNTlN∆ en prueba
 http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/453157.m3u8
