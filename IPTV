@@ -1,39 +1,31 @@
 #EXTM3U
-
-
-
 #EXTM3U
-#EXTINF:-1 tvg-logo="",Platense vs Velez | ESPN Premium | Sab 14/03 19:00 HS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Gimnasia_LP_vs_Ind_Rivadavia.jpg" group-title="LIGA ARGENTINA",Gimnasia LP vs Ind Rivadavia (Dom 15/03 | 15:15 HS) [TNT Sports]
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Belgrano_vs_Talleres.jpg" group-title="LIGA ARGENTINA",Belgrano vs Talleres (Dom 15/03 | 17:30 HS) [TNT Sports]
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/River_Plate_vs_Sarmiento.jpg" group-title="LIGA ARGENTINA",River Plate vs Sarmiento (Dom 15/03 | 19:45 HS) [ESPN Premium]
 http://46.225.94.157/hls/espn/index.m3u8
-#EXTINF:-1 tvg-logo="",Rosario Central vs Banfield | TNT Sports | Sab 14/03 21:00 HS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Union_vs_Boca_Juniors.jpg" group-title="LIGA ARGENTINA",Unión vs Boca Juniors (Dom 15/03 | 22:00 HS) [TNT Sports]
 http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="",Gimnasia LP vs Ind Rivadavia | TNT Sports | Dom 15/03 15:15 HS
-http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="",Belgrano vs Talleres | TNT Sports | Dom 15/03 17:30 HS
-http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="",River Plate vs Sarmiento | ESPN Premium | Dom 15/03 19:45 HS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Tigre_vs_Argentinos_Jr.jpg" group-title="LIGA ARGENTINA",Tigre vs Argentinos Jr (Dom 15/03 | 22:00 HS) [ESPN Premium]
 http://46.225.94.157/hls/espn/index.m3u8
-#EXTINF:-1 tvg-logo="",Union vs Boca Juniors | TNT Sports | Dom 15/03 22:00 HS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Barracas_Ctral_vs_Atl_Tucuman.jpg" group-title="LIGA ARGENTINA",Barracas Ctral vs Atl Tucumán (Lunes 16/03 | 15:30 HS) [TNT Sports]
 http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="",Tigre vs Argentinos Jr | ESPN Premium | Dom 15/03 22:00 HS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Aldosivi_vs_Huracan.jpg" group-title="LIGA ARGENTINA",Aldosivi vs Huracán (Lunes 16/03 | 15:30 HS) [ESPN Premium]
 http://46.225.94.157/hls/espn/index.m3u8
-#EXTINF:-1 tvg-logo="",Barracas Ctral vs Atl Tucuman | TNT Sports | Lun 16/03 15:30 HS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/San_Lorenzo_vs_Def_y_Justicia.jpg" group-title="LIGA ARGENTINA",San Lorenzo vs Def y Justicia (Lunes 16/03 | 18:30 HS) [TNT Sports]
 http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="",Aldosivi vs Huracan | ESPN Premium | Lun 16/03 15:30 HS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Racing_vs_Estudiantes_RC.jpg" group-title="LIGA ARGENTINA",Racing vs Estudiantes RC (Lunes 16/03 | 20:00 HS) [ESPN Premium]
 http://46.225.94.157/hls/espn/index.m3u8
-#EXTINF:-1 tvg-logo="",San Lorenzo vs Def y Justicia | TNT Sports | Lun 16/03 18:30 HS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Instituto_vs_Independiente.jpg" group-title="LIGA ARGENTINA",Instituto vs Independiente (Lunes 16/03 | 22:15 HS) [TNT Sports]
 http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="",Racing vs Estudiantes RC | ESPN Premium | Lun 16/03 20:00 HS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Lanus_vs_Newells.jpg" group-title="LIGA ARGENTINA",Lanús vs Newells (Mar 17/03 | 19:00 HS) [ESPN Premium]
 http://46.225.94.157/hls/espn/index.m3u8
-#EXTINF:-1 tvg-logo="",Instituto vs Independiente | TNT Sports | Lun 16/03 22:15 HS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/C._Cordoba_vs_Dep_Riestra.jpg" group-title="LIGA ARGENTINA",C. Córdoba vs Dep Riestra (Mar 17/03 | 21:15 HS) [TNT Sports]
 http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="",Lanus vs Newells | ESPN Premium | Mar 17/03 19:00 HS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Gimnasia_Mza_vs_Estudiantes.jpg" group-title="LIGA ARGENTINA",Gimnasia Mza vs Estudiantes (Mar 17/03 | 21:15 HS) [ESPN Premium]
 http://46.225.94.157/hls/espn/index.m3u8
-#EXTINF:-1 tvg-logo="",C. Cordoba vs Dep Riestra | TNT Sports | Mar 17/03 21:15 HS
-http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="",Gimnasia Mza vs Estudiantes | ESPN Premium | Mar 17/03 21:15 HS
-http://46.225.94.157/hls/espn/index.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="",F1
