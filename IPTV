@@ -45,10 +45,6 @@ http://dplatino.net:80/live/B002F0072A7E/02F0072A7EB0/453157.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="",futbol
-https://dl.dropbox.com/scl/fi/d9n6xrp813zx4o7wc56w9/tv-prueba.txt?rlk
-
 #EXTINF:-1 tvg-logo="http://bit.ly/4sbkPJx", tv server 1
 https://raw.githubusercontent.com/emiliocuesta/milista/9c34f87a7aa3719cfa5dbb21b285ed38b955f490/Nlista631
 
