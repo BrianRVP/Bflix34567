@@ -78,7 +78,9 @@ https://raw.githubusercontent.com/emiliocuesta/milista/refs/heads/main/Nlista636
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vecteurs-premium/modele-vectoriel-conception-logo-icone-chaine-television-television_10135-4522.jpg?semt=ais_hybrid&w=740&q=80",tv server 7
 https://raw.githubusercontent.com/emiliocuesta/milista/refs/heads/main/Nlista637
 
-mismo....
+#EXTINF:-1 tvg-logo="",deportes
+https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/01%20deporte
+
 #EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/g3qddq1.jpeg",pelis 1 server
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/Movies%20server1.m3u
 
