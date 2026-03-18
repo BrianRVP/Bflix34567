@@ -1,6 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/itCHi0wHIoFARyS7EPmQt8pT7j.jpg",Contra las cuerdas 
+https://dl.dropbox.com/scl/fi/oa0qc5jh6157cl7uliwjd/f-sica.mp4?rlkey=9ag8hycf2i9q64vux1byyklr0&st=l0qyiok3&dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/d5YmQx9kPLQBHEboGwrAavypztB.jpg",Máquina de guerra (2026)
 https://dl.dropbox.com/scl/fi/22ipr8f6f3c67iaazp9y6/f-sica.mp4?rlkey=e3evan7tm1o5akqfc651nw9ai&st=s01a5dub&dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rAYkyMUPouCnzguUpKCiw3fa5ar.jpg",40 Acres (2025)
