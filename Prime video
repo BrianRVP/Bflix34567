@@ -1,9 +1,8 @@
 #EXTM3U
 #EXTGRP:Prime video
 
-#EXTINF:-1 tvg-logo="",
-
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/crWFJagt0Fnv0NouuXNyiM5OiJa.jpg",Vaka (2026)
+https://dl.dropbox.com/scl/fi/fovmna22j1ptjyw8zsy62/Vaka-2026.m3u?rlkey=2p4ugew5rj74tifc3uqbr091h&st=voecjcg3&dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nh4vd3KIVt2PTavs5Nj1gurnMjs.jpg",The Creep Tapes (2024)
 https://dl.dropbox.com/scl/fi/qbfo37u0l7yp81tzabtwy/The-Creep-Tapes-2024.m3u?rlkey=radbjfhcul7c3ep0ufh0wj9rr&st=dvq5grsr&dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/T6t1N2Z3sZ3vKTn5hKCrhWeeyT.jpg",Day One (2026)
