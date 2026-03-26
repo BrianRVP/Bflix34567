@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTGRP: Apple tv+
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9NjLaKL5pa2m4whf4cHAgfhyIzc.jpg",The Copenhagen Test (2025)
+https://dl.dropbox.com/scl/fi/e7b1codktrr6rolhqgkev/The-Copenhagen-Test-2025.txt?rlkey=up5y09cd1abb69pw8y3bflgqp&st=khrutibj&dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uAjafAtfJFD9dfTfy5iLuCbY7ql.jpg",Gotas de Dios (2023)
 https://dl.dropbox.com/scl/fi/c9od03k2jf9e8z2rekhfo/Las-gotas-de-Dios.txt?rlkey=6jqbws2a4l1pcgo6pqucxggsh&st=ke8kv0fm&dl=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z2Badb3ykpO41VHtmxcChh80yWn.jpg",Pluribus (2025)
