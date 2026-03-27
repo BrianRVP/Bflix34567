@@ -55,6 +55,8 @@ https://raw.githubusercontent.com/BuddyChewChew/sports/refs/heads/main/liveevent
 #EXTINF:-1 tvg-logo="//static.wikia.nocookie.net/logopedia/images/3/31/Gran_hermano_15.jpg/revision/latest?cb=20230202005612&path-prefix=es",GRAN HERMAMO
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/GRAN%20HERMANO
 
+#EXTINF:-1 tvg-logo="",tv premium
+https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/prueba
 
 #EXTINF:-1 tvg-logo="mg.freepik.com/vecteurs-premium/modele-vectoriel-conception-logo-icone-chaine-television-television_10135-4522.jpg?semt=ais_hybrid&w=740&q=80", tv server 1
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/01.m3u
