@@ -1,6 +1,18 @@
 #EXTM3U
 
-#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/2fd2e62cfdb93942bf08272680866ceb.png",evento 1
+http://rlatinop.com:8880/Claudia_H25/TX7YcZGkkYHD/518547
+#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/2fd2e62cfdb93942bf08272680866ceb.png",evento 2
+http://rlatinop.com:8880/Claudia_H25/TX7YcZGkkYHD/518548
+#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/2fd2e62cfdb93942bf08272680866ceb.png",evento 3
+http://rlatinop.com:8880/Claudia_H25/TX7YcZGkkYHD/518549
+#EXTINF:-1 tvg-logo="http://redworld.pro:8880/images/2fd2e62cfdb93942bf08272680866ceb.png",evento 4
+http://rlatinop.com:8880/Claudia_H25/TX7YcZGkkYHD/519923
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Gimnasia_LP_vs_Barracas_Ctral.jpg",Gimnasia LP vs Barracas Ctral | Vie 20/03 19:00 HS | TNT Sports
 http://46.225.94.157/hls/tnt/index.m3u8
