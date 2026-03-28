@@ -13,6 +13,11 @@ http://rlatinop.com:8880/Claudia_H25/TX7YcZGkkYHD/518549
 http://rlatinop.com:8880/Claudia_H25/TX7YcZGkkYHD/519923
 
 
+#EXTINF:-1 tvg-logo="", TNT Sports
+http://46.225.94.157/hls/tnt/index.m3u8
+#EXTINF:-1 tvg-logo="", ESPN Premium
+http://46.225.94.157/hls/espn/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Gimnasia_LP_vs_Barracas_Ctral.jpg",Gimnasia LP vs Barracas Ctral | Vie 20/03 19:00 HS | TNT Sports
 http://46.225.94.157/hls/tnt/index.m3u8
