@@ -57,6 +57,9 @@ https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/full.m3u
 #EXTINF:-1 tvg-logo="",deportes
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/01%20deporte
 
+
+#EXTINF:-1 tvg-logo="",deportes prueba 
+https://iptv-org.github.io/iptv/categories/sports.m3u
 #EXTINF:-1 tvg-logo="",pelis 1 server
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/Movies%20server1.m3u
 
