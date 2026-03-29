@@ -30,10 +30,12 @@ https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/prueba
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/01.m3u
 
 #EXTINF:-1 tvg-logo="mg.freepik.com/vecteurs-premium/modele-vectoriel-conception-logo-icone-chaine-television-television_10135-4522.jpg?semt=ais_hybrid&w=740&q=80", tv server 2hhhh
+#EXTINF:-1 tvg-logo="", tv server 2
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/02.m3u
 
 #EXTINF:-1 tvg-logo="-premium/modele-vectoriel-conception-logo-icone-chaine-television-television_10135-4522.jpg?semt=ais_hybrid&w=740&q=80", tv server 3
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/03.01.m3u
+#EXTINF:-1 tvg-logo="", tv server 3
+
 
 #EXTINF:-1 tvg-logo="", tv server 4 
 https://raw.githubusercontent.com/emiliocuesta/milista/refs/heads/main/Nlista634
@@ -83,11 +85,11 @@ https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/TV
 https://raw.githubusercontent.com/patron81/Roku/main/roku.m3u?fbclid=Iwb21leAPxnqRjbGNrA_GekWV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHoGL25vQlOyuz-T1e9QelXB6O9XCT6pkxlJW-F2JaWUe_cJM-THWae-KD3Y4_aem_MuUB-vBrlx-62yjKJBeo0Q
 
 
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/vlzqwvix.webp",SIDE BY SIDE
+#EXTINF:-1 tvg-logo="",SIDE BY SIDE
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/SIDE%20BY%20SIDE
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/178kiokz.jpeg",SAGAS
+#EXTINF:-1 tvg-logo="",SAGAS
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/sagas
-#EXTINF:-1 tvg-logo="https://pomf2.lain.la/f/s46f8e6s.jpeg",PELIS DEL RECUERDO
+#EXTINF:-1 tvg-logo="",PELIS DEL RECUERDO
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis%20del%20recuerdo
 
 
