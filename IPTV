@@ -16,7 +16,8 @@ http://46.225.94.157/hls/espn/index.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="",runtime/extreme
+https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/runtime%20y%20extreme
 
 #EXTINF:-1 tvg-logo="",GRAN HERMAMO
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/GRAN%20HERMANO
