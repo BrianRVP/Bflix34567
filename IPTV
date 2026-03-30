@@ -26,9 +26,6 @@ https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/prueba
 #EXTINF:-1 tvg-logo="",cable argentina
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/clable%20argentina.m3u
 
-#EXTINF:-1 tvg-logo="",canales complet
-https://raw.githubusercontnt.com/tokio14-dot/prrr/refs/heads/main/full.m3u
-
 #EXTINF:-1 tvg-logo="",deportes
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/01%20deporte
 
