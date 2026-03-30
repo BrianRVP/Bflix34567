@@ -23,42 +23,20 @@ https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/GRAN%20HERMAN
 #EXTINF:-1 tvg-logo="",tv premium
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/prueba
 
-#EXTINF:-1 tvg-logo="",tv server 1
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/01.m3u
-
-#EXTINF:-1 tvg-logo="", tv server 2
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/02.m3u
-
-#EXTINF:-1 tvg-logo="", tv server 3
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/03.01.m3u
-
-#EXTINF:-1 tvg-logo="", tv server 4 
-https://raw.githubusercontent.com/emiliocuesta/milista/refs/heads/main/Nlista634
-
-#EXTINF:-1 tvg-logo="", tv server 5
-https://raw.githubusercontent.com/emiliocuesta/milista/refs/heads/main/Nlista635
-
-#EXTINF:-1 tvg-logo="", tv server 6
-https://raw.githubusercontent.com/emiliocuesta/milista/refs/heads/main/Nlista679
-
-#EXTINF:-1 tvg-logo="",tv server 7
-https://raw.githubusercontent.com/emiliocuesta/milista/refs/heads/main/Nlista637
-
-#EXTINF:-1 tvg-logo="",tv server 8
-https://raw.githubusercontent.com/emiliocuesta/milista/refs/heads/main/Nlista680
-
-
 #EXTINF:-1 tvg-logo="",cable argentina
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/clable%20argentina.m3u
 
 #EXTINF:-1 tvg-logo="",canales complet
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/full.m3u
+https://raw.githubusercontnt.com/tokio14-dot/prrr/refs/heads/main/full.m3u
 
 #EXTINF:-1 tvg-logo="",deportes
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/01%20deporte
 
 #EXTINF:-1 tvg-logo="",deportes prueba 
 https://iptv-org.github.io/iptv/categories/sports.m3u
+
+#EXTINF:-1 tvg-logo="",deportes prueba 2
+https://raw.githubusercontent.com/la22lo/sports/refs/heads/main/futbol.m3u
 
 #EXTINF:-1 tvg-logo="",pelis 1 server
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/Movies%20server1.m3u
@@ -87,6 +65,22 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/sagas
 #EXTINF:-1 tvg-logo="",PELIS DEL RECUERDO
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis%20del%20recuerdo
 
+#EXTINF:-1 tvg-logo="",tv server 1
+https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/01.m3u
+#EXTINF:-1 tvg-logo="", tv server 2
+https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/02.m3u
+#EXTINF:-1 tvg-logo="", tv server 3
+https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/03.01.m3u
+#EXTINF:-1 tvg-logo="", tv server 4 
+https://raw.githubusercontent.com/emiliocuesta/milista/refs/heads/main/Nlista634
+#EXTINF:-1 tvg-logo="", tv server 5
+https://raw.githubusercontent.com/emiliocuesta/milista/refs/heads/main/Nlista635
+#EXTINF:-1 tvg-logo="", tv server 6
+https://raw.githubusercontent.com/emiliocuesta/milista/refs/heads/main/Nlista679
+#EXTINF:-1 tvg-logo="",tv server 7
+https://raw.githubusercontent.com/emiliocuesta/milista/refs/heads/main/Nlista637
+#EXTINF:-1 tvg-logo="",tv server 8
+https://raw.githubusercontent.com/emiliocuesta/milista/refs/heads/main/Nlista680
 
 
 #EXTINF:-1 tvg-logo=""group-title="",NOort
