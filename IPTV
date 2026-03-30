@@ -10,7 +10,8 @@ http://46.225.94.157/hls/tnt/index.m3u8
 #EXTINF:-1 tvg-logo="", ESPN Premium
 http://46.225.94.157/hls/espn/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="",Deportes
+https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/DEPORT%202
 
 #EXTINF:-1 tvg-logo="", full
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/funcional%20full.m3u8
@@ -27,11 +28,9 @@ https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/prueba
 #EXTINF:-1 tvg-logo="",tv server 1
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/01.m3u
 
-#EXTINF:-1 tvg-logo="mg.freepik.com/vecteurs-premium/modele-vectoriel-conception-logo-icone-chaine-television-television_10135-4522.jpg?semt=ais_hybrid&w=740&q=80", tv server 2hhhh
 #EXTINF:-1 tvg-logo="", tv server 2
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/02.m3u
 
-#EXTINF:-1 tvg-logo="-premium/modele-vectoriel-conception-logo-icone-chaine-television-television_10135-4522.jpg?semt=ais_hybrid&w=740&q=80", tv server 3
 #EXTINF:-1 tvg-logo="", tv server 3
 
 
@@ -60,9 +59,9 @@ https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/full.m3u
 #EXTINF:-1 tvg-logo="",deportes
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/01%20deporte
 
-
 #EXTINF:-1 tvg-logo="",deportes prueba 
 https://iptv-org.github.io/iptv/categories/sports.m3u
+
 #EXTINF:-1 tvg-logo="",pelis 1 server
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/Movies%20server1.m3u
 
