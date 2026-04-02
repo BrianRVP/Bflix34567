@@ -4,7 +4,8 @@
 
 
 
-
+#EXTINF:-1 tvg-logo="",0
+https://files.fm/server_scripts/zip/zip_streamer/upload_zip_streamer.php?uhash=rupdrxswuc
 #EXTINF:-1 tvg-logo="", TNT Sports
 http://46.225.94.157/hls/tnt/index.m3u8
 #EXTINF:-1 tvg-logo="", ESPN Premium
