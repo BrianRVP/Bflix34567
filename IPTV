@@ -1,9 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="",pru
-https://bf.jalaplay.net/live/5005018.m3u8?txSecret=ab2b229399a2b09a7651e8f0041b718d&txTime=69d0082a
-
 #EXTINF:-1 tvg-logo="",mario bros 2026 24/7
 https://app.viloud.tv/hls/channel/a0b7b1b572f19018bfbbaef11f2b29f9.m3u8
 
