@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="",pru
+https://st7.ranoz.gg/K2n2FNwf-Inthum%202026%201080p%20Latino.bin
 #EXTINF:-1 tvg-logo="",mario bros 2026 24/7
 https://app.viloud.tv/hls/channel/a0b7b1b572f19018bfbbaef11f2b29f9.m3u8
 
