@@ -1,10 +1,6 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 tvg-logo="",mario bros 2026 24/7
-https://app.viloud.tv/hls/channel/a0b7b1b572f19018bfbbaef11f2b29f9.m3u8
-
 #EXTINF:-1 tvg-logo="", TNT Sports
 http://46.225.94.157/hls/tnt/index.m3u8
 #EXTINF:-1 tvg-logo="", ESPN Premium
@@ -15,6 +11,9 @@ http://46.225.94.157/hls/espn/index.m3u8
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/mls.txt
 #EXTINF:-1 tvg-logo="", full
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/funcional%20full.m3u8
+#EXTINF:-1 tvg-logo="",full 2
+https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/full.m3u
+
 #EXTINF:-1 tvg-logo="",argentina y mas
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/argentina.m3u
 
