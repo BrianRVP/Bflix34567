@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="",1
-https://fafda.to/d/8emoihz853ud?v=CrjloKofUUZ_knKl6KHJkq55QUmdSJI7g-f66tE1FV8HPuPHArQIgchfbainITbEMI8LEYTfwk36KSFNoXuLfgyVtzHm2It9SNY5xfkJ8VxfGL2GukcYSHQ4b7uO2VktMhC89a0ikV4pZK4aad7Au_-shzh1OOLAjESwO3kbLq_QHwq8PhtcFDE2Qq2kvqsEI3VJ2KnD8zxkmn9HZl7OnRVX_ITX1laMAmY7UlBrp_C9RHmXqfb3STjHaOZ5FjB1m020mQQkXSSn
-#EXTINF:-1 tvg-logo="",2
-https://fafda.to/d/qrygfn54xv69?v=V9oX0ih6z82cy_rd8ITvV1lVu2aaI3tAUzML8Rndi5vcYv_0rwUFpnKre-MFA3RrAHkcok4lqcTvlRDgN2UN45s6em_DBwedIEPp-j0Hl5WJqgVq1cakX1rvyqNA_k8sycM_wFcXGQDwux5KkBrUsuJAh6Y_rGZFa9YWLloBQ0fahYp6afWgQFyPU-V5mbThau-LRKexXnZbYapojBZp_GeEMgMykC9kBGbJZc616gh75aVtQMg4x2jNxPFWiSVBGYLvhy2XcLAOIM6DwDf5bWOKkhDc2enslKxFn-rVcNWL0zV4-Gme
-
-
 
 
 #EXTINF:-1 tvg-logo="",mario bros 2026 24/7
@@ -71,6 +65,10 @@ https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/mai
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/TV
 #EXTINF:-1 tvg-logo="",TV OP2
 https://raw.githubusercontent.com/patron81/Roku/main/roku.m3u?fbclid=Iwb21leAPxnqRjbGNrA_GekWV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHoGL25vQlOyuz-T1e9QelXB6O9XCT6pkxlJW-F2JaWUe_cJM-THWae-KD3Y4_aem_MuUB-vBrlx-62yjKJBeo0Q
+#EXTINF:-1 tvg-logo="",TV OP3
+https://raw.githubusercontent.com/edisontotv/tv/refs/heads/main/tv1.m3u
+
+
 
 
 #EXTINF:-1 tvg-logo="",SIDE BY SIDE
