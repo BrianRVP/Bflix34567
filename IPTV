@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="",deporte del mundo
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/deporte%20la%20mejor.txt
 
 #EXTINF:-1 tvg-logo="", TNT Sports
 http://46.225.94.157/hls/tnt/index.m3u8
@@ -28,13 +26,12 @@ https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/GRAN%20HERMAN
 
 #EXTINF:-1 tvg-logo="",tv premium
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/prueba
-
 #EXTINF:-1 tvg-logo="",tv premium 2
 https://raw.githubusercontent.com/hansoljun0/t-v/83959ece31ccaab4eb6059f13e872271114ec30a/TELE.m3u
-
 #EXTINF:-1 tvg-logo="",tv premium 3
 https://raw.githubusercontent.com/hansoljun0/t-v/refs/heads/main/TV2.m3u
-
+#EXTINF:-1 tvg-logo="",tv premium 4
+https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/tv4.txt
 #EXTINF:-1 tvg-logo="",cable argentina
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/clable%20argentina.m3u
 
@@ -44,6 +41,8 @@ https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/01%20deporte
 https://raw.githubusercontent.com/boomski/TV/refs/heads/master/Cycling.m3u
 #EXTINF:-1 tvg-logo="",futbol otro idioma
 https://raw.githubusercontent.com/pk0979/m3u-live/refs/heads/main/all.m3u
+#EXTINF:-1 tvg-logo="",deporte del mundo
+https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/deporte%20la%20mejor.txt
 
 
 #EXTINF:-1 tvg-logo="",deportes prueba 
