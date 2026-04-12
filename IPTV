@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="",peli
-https://drive.usercontent.google.com/download?id=1iaJC86u-yrm7Qh9u1mcjd0vreK5B0ClJ&export=download&confirm=t&uuid=03d50036-52c4-4c43-bfe7-74ee0552bcf4
+#EXTINF:-1 tvg-logo="",prueba
+https://drive.google.com/file/d/183h7zQDHVvrH0P-A6kfPsML46k4vN4Oy/preview
 
 #EXTINF:-1 tvg-logo="", TNT Sports
 http://46.225.94.157/hls/tnt/index.m3u8
