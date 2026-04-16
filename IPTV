@@ -1,16 +1,6 @@
 #EXTM3U
 
-#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Sarmiento_vs_Gimnasia_LP.jpg", Sarmiento vs Gimnasia LP (Lun 13/04 16:30 HS - TNT Sports)
-http://46.225.94.157/hls/tnt/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Def_y_Justicia_vs_Talleres.jpg", Def y Justicia vs Talleres (Lun 13/04 16:30 HS - ESPN Premium)
-http://46.225.94.157/hls/espn/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Lanus_vs_Banfield.jpg", Lanus vs Banfield (Lun 13/04 19:00 HS - ESPN Premium)
-http://46.225.94.157/hls/espn/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Velez_vs_C._Cordoba.jpg", Velez vs C. Cordoba (Lun 13/04 21:30 HS - TNT Sports)
-http://46.225.94.157/hls/tnt/index.m3u8
 
 #EXTINF:-1 tvg-logo="", TNT Sports
 http://46.225.94.157/hls/tnt/index.m3u8
@@ -75,7 +65,7 @@ https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/mai
 #EXTINF:-1 tvg-logo="",TV OP1
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/TV
 #EXTINF:-1 tvg-logo="",TV OP2
-
+https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/deepseek_m3u_20260416_37e720.txt
 #EXTINF:-1 tvg-logo="",TV OP3
 https://raw.githubusercontent.com/edisontotv/tv/refs/heads/main/tv1.m3u
 
