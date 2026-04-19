@@ -2,35 +2,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="",live 1
-http://sertw.cloud:8081/app/www001/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDU6NDM6MTQgUE0maGFzaF92YWx1ZT11NlkwYndVeHd1Ynp0Ung5QTQ2V1FRPT0mdmFsaWRtaW51dGVzPTIyMA==
-#EXTINF:-1 tvg-logo="",live 2
-http://sertw.cloud:8081/app/www001/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDU6NDQ6MTIgUE0maGFzaF92YWx1ZT1yY2FEYVp4RTREZkl5MEhjL0I3bll3PT0mdmFsaWRtaW51dGVzPTIyMA==
-#EXTINF:-1 tvg-logo="",live 3
-
-#EXTINF:-1 tvg-logo="",live 4
-http://sertw.cloud:8081/app/www045/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDU6MTk6NDcgUE0maGFzaF92YWx1ZT10L1g3ckJUeEdLYXZ2LzEvZjBEL1l3PT0mdmFsaWRtaW51dGVzPTIyMA==
-#EXTINF:-1 tvg-logo="",live 5
-http://sertw.cloud:8081/app/www045/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDU6MjA6NTMgUE0maGFzaF92YWx1ZT1JWHpRZWxxOVRzWUVxZFhOVzFMdU53PT0mdmFsaWRtaW51dGVzPTIyMA==
-#EXTINF:-1 tvg-logo="",live 6
-
-#EXTINF:-1 tvg-logo="",live 7
-
-#EXTINF:-1 tvg-logo="",live 8
-http://sertw.cloud:8081/app/www8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDU6MjI6MDQgUE0maGFzaF92YWx1ZT1rbm9wQjFERWN2OElvRzROb2lIOXpBPT0mdmFsaWRtaW51dGVzPTIyMA==
-
-#EXTINF:-1 tvg-logo="",live 9
-
-#EXTINF:-1 tvg-logo="",live 10
-
-#EXTINF:-1 tvg-logo="",live 11
-
-#EXTINF:-1 tvg-logo="",live 12
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="", TNT Sports
 http://46.225.94.157/hls/tnt/index.m3u8
