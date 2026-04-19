@@ -2,6 +2,24 @@
 
 
 
+#EXTINF:-1 tvg-logo="",sala 1
+
+#EXTINF:-1 tvg-logo="",sala 2
+
+#EXTINF:-1 tvg-logo="",sala 3
+
+#EXTINF:-1 tvg-logo="",sala 4
+
+#EXTINF:-1 tvg-logo="",sala 5
+
+#EXTINF:-1 tvg-logo="",sala 6
+http://sertw.cloud:8081/app/www067/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDU6MDg6MjggUE0maGFzaF92YWx1ZT1nVjdrZzMyaiszUCtqdUJPaWhRamNBPT0mdmFsaWRtaW51dGVzPTIyMA==
+#EXTINF:-1 tvg-logo="",sala 7
+
+#EXTINF:-1 tvg-logo="",sala 8
+
+
+
 #EXTINF:-1 tvg-logo="", TNT Sports
 http://46.225.94.157/hls/tnt/index.m3u8
 #EXTINF:-1 tvg-logo="", ESPN Premium
