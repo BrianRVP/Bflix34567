@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo="",sala 1
 http://sertw.cloud:8081/app/www01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDU6MTI6MzggUE0maGFzaF92YWx1ZT1EbGE1NXR3QlpOWGNwWVB1SnhJUTlnPT0mdmFsaWRtaW51dGVzPTIyMA==
 #EXTINF:-1 tvg-logo="",sala 2
-http://sertw.cloud:8081/app/www02/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDU6MTI6MzggUE0maGFzaF92YWx1ZT1EbGE1NXR3QlpOWGNwWVB1SnhJUTlnPT0mdmFsaWRtaW51dGVzPTIyMA==
+http://sertw.cloud:8081/app/www02/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDU6MTQ6MDMgUE0maGFzaF92YWx1ZT1vdEN2TUg4amlRbjRJZ3VkVXdTYTdRPT0mdmFsaWRtaW51dGVzPTIyMA==
 #EXTINF:-1 tvg-logo="",sala 3
 
 #EXTINF:-1 tvg-logo="",sala 4
