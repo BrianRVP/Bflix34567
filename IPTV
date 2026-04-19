@@ -3,11 +3,11 @@
 
 
 #EXTINF:-1 tvg-logo="",live 1
-http://sertw.cloud:8081/app/www01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDU6MTI6MzggUE0maGFzaF92YWx1ZT1EbGE1NXR3QlpOWGNwWVB1SnhJUTlnPT0mdmFsaWRtaW51dGVzPTIyMA==
+http://sertw.cloud:8081/app/www001/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDU6NDM6MTQgUE0maGFzaF92YWx1ZT11NlkwYndVeHd1Ynp0Ung5QTQ2V1FRPT0mdmFsaWRtaW51dGVzPTIyMA==
 #EXTINF:-1 tvg-logo="",live 2
-http://sertw.cloud:8081/app/www02/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDU6MTQ6MDMgUE0maGFzaF92YWx1ZT1vdEN2TUg4amlRbjRJZ3VkVXdTYTdRPT0mdmFsaWRtaW51dGVzPTIyMA==
+
 #EXTINF:-1 tvg-logo="",live 3
-http://sertw.cloud:8081/app/www03/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDU6MTQ6MDMgUE0maGFzaF92YWx1ZT1vdEN2TUg4amlRbjRJZ3VkVXdTYTdRPT0mdmFsaWRtaW51dGVzPTIyMA==
+
 #EXTINF:-1 tvg-logo="",live 4
 http://sertw.cloud:8081/app/www045/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDU6MTk6NDcgUE0maGFzaF92YWx1ZT10L1g3ckJUeEdLYXZ2LzEvZjBEL1l3PT0mdmFsaWRtaW51dGVzPTIyMA==
 #EXTINF:-1 tvg-logo="",live 5
