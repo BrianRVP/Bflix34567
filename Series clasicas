@@ -1,6 +1,15 @@
 #EXTM3U
 #EXTGRP: Clasic
 
+
+
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zl899KrCM4WpOQZ5ekk49GHhyjG.jpg",Balas perdidas (2017)
+https://www.dropbox.com/scl/fi/reava7bjhirrjgie2puan/Balas-perdidas-2017.txt?rlkey=5oat1390dxwlsr4o3r1rgi2ia&st=fl4upio9&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6Rximu7XGxVUqm8dk6bBegXA1PV.jpg",Montecristo (2006)
 https://dl.dropbox.com/scl/fi/92icpa26hc926l0n05sth/Montecristo-2006.txt?rlkey=h4av43jo00fzypif75po1jard&st=l7s3s5a7&.m3u
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/De_carne_somos_Serie_de_TV-320396277-large.jpg",De carne somos (1988)
