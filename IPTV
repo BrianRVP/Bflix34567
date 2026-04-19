@@ -2,30 +2,30 @@
 
 
 
-#EXTINF:-1 tvg-logo="",sala 1
+#EXTINF:-1 tvg-logo="",live 1
 http://sertw.cloud:8081/app/www01/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDU6MTI6MzggUE0maGFzaF92YWx1ZT1EbGE1NXR3QlpOWGNwWVB1SnhJUTlnPT0mdmFsaWRtaW51dGVzPTIyMA==
-#EXTINF:-1 tvg-logo="",sala 2
+#EXTINF:-1 tvg-logo="",live 2
 http://sertw.cloud:8081/app/www02/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDU6MTQ6MDMgUE0maGFzaF92YWx1ZT1vdEN2TUg4amlRbjRJZ3VkVXdTYTdRPT0mdmFsaWRtaW51dGVzPTIyMA==
-#EXTINF:-1 tvg-logo="",sala 3
+#EXTINF:-1 tvg-logo="",live 3
 http://sertw.cloud:8081/app/www03/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDU6MTQ6MDMgUE0maGFzaF92YWx1ZT1vdEN2TUg4amlRbjRJZ3VkVXdTYTdRPT0mdmFsaWRtaW51dGVzPTIyMA==
-#EXTINF:-1 tvg-logo="",sala 4
+#EXTINF:-1 tvg-logo="",live 4
 http://sertw.cloud:8081/app/www045/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDU6MTk6NDcgUE0maGFzaF92YWx1ZT10L1g3ckJUeEdLYXZ2LzEvZjBEL1l3PT0mdmFsaWRtaW51dGVzPTIyMA==
-#EXTINF:-1 tvg-logo="",sala 5
+#EXTINF:-1 tvg-logo="",live 5
 http://sertw.cloud:8081/app/www045/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDU6MjA6NTMgUE0maGFzaF92YWx1ZT1JWHpRZWxxOVRzWUVxZFhOVzFMdU53PT0mdmFsaWRtaW51dGVzPTIyMA==
-#EXTINF:-1 tvg-logo="",sala 6
+#EXTINF:-1 tvg-logo="",live 6
 http://sertw.cloud:8081/app/www067/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDU6MDg6MjggUE0maGFzaF92YWx1ZT1nVjdrZzMyaiszUCtqdUJPaWhRamNBPT0mdmFsaWRtaW51dGVzPTIyMA==
-#EXTINF:-1 tvg-logo="",sala 7
-http://sertw.cloud:8081/app/www067/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDU6MjI6NTQgUE0maGFzaF92YWx1ZT00Z1hQTEU4eUphZVJNaXNmUW14TWJ3PT0mdmFsaWRtaW51dGVzPTIyMA==z
-#EXTINF:-1 tvg-logo="",sala 8
+#EXTINF:-1 tvg-logo="",live 7
+http://sertw.cloud:8081/app/www067/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDU6MjI6NTQgUE0maGFzaF92YWx1ZT00Z1hQTEU4eUphZVJNaXNmUW14TWJ3PT0mdmFsaWRtaW51dGVzPTIyMA==
+#EXTINF:-1 tvg-logo="",live 8
 http://sertw.cloud:8081/app/www8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDI2IDU6MjI6MDQgUE0maGFzaF92YWx1ZT1rbm9wQjFERWN2OElvRzROb2lIOXpBPT0mdmFsaWRtaW51dGVzPTIyMA==
 
-#EXTINF:-1 tvg-logo="",sala 9
+#EXTINF:-1 tvg-logo="",live 9
 
-#EXTINF:-1 tvg-logo="",sala 10
+#EXTINF:-1 tvg-logo="",live 10
 
-#EXTINF:-1 tvg-logo="",sala 11
+#EXTINF:-1 tvg-logo="",live 11
 
-#EXTINF:-1 tvg-logo="",sala 12
+#EXTINF:-1 tvg-logo="",live 12
 
 
 
