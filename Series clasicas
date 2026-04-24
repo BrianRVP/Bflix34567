@@ -5,6 +5,8 @@
 
 #EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6a5tGXaGimIBWntQUKKWyZcyj68.jpg",40 Y 20
+https://archive.org/download/elch4v0/40Y20.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z41gTEXPz0Itz6VDUv6csnR9nSJ.jpg",Silencios de familia (2016)
 https://dl.dropbox.com/scl/fi/nixhvg9npvxgaw5dtwu9r/Silencios-de-familia-2016.txt?rlkey=k5s4n9q7t2qkxyod9u1nkfukx&st=h67zfdkk&.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTE0Y2U2ZGYtMDcyYi00NmNmLWFkNjItNjE1NTY2ZTAyNmZlXkEyXkFqcGc@.jpg",el palacio de la risa (1994)
