@@ -5,6 +5,8 @@
 
 #EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ALF.jpg",ALF
+http://archive.org/download/listasaqui_ymail4_Alf/alf.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tDmAHjMJ9jQ7sDIrBY0UKUb5mXm.jpg",AMERICAN DAD
 http://archive.org/download/ladarius34b_k964n_mygeoweb_2/AD1.m3u
 
