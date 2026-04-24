@@ -4,6 +4,9 @@
 
 
 #EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vyFCIKuZp2RbUZNJUugOBIz3xin.jpg",Los años maravillosos (1988)
+http://archive.org/download/elch4v0/MARAVILLO.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wP0zaZVBNhZIoHgnZfv86rM0YUh.jpg",ANDY  Y  MACK
 http://archive.org/download/ns_20210520/ANDMA.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ALF.jpg",ALF
