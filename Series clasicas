@@ -5,6 +5,8 @@
 
 #EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="", LE TEMES A LA OBSCURIDAD
+http://archive.org/download/ns_20210520/TEMESOB.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rUuUTfGCaQY6sov3w5nrRly7snS.jpg",Dinosaurios (1991)
 http://archive.org/download/ns_20210520/DINOSAURIOS.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gQ3bA1DBKyZwkDCHJFEAT0MkKpu.jpg" group-title="Series",Constantine (2014)
