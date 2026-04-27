@@ -151,6 +151,8 @@ http://archive.org/download/elch4v0/MARAVILLO.m3u
 http://archive.org/download/ns_20210520/Daredevil.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/buff_20210124/BUFF.jpg" group-title="Disney+",Buffy la caza vampiros
 http://archive.org/download/ANIME_20190528/BUF.m3u
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w130_and_h195_face/au5hsZ20QzOVXSOWgx7umAhHC6A.jpg" group-title="Disney+",Legion (2017) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Legion
 
 
 
