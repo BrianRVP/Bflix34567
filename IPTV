@@ -56,9 +56,8 @@ https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/Movies%20serv
 #EXTINF:-1 tvg-logo="",4K
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/4K
 
-#EXTINF:-1 tvg-logo="",24/7 server
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/247%20op2
-
+#EXTINF:-1 tvg-logo="",PELIS
+https://raw.githubusercontent.com/santiagoalanezrocha55-ai/Lista-pelis-m3u/refs/heads/main/Peliculas
 
 #EXTINF:-1 tvg-logo="",pluto tv
 https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_ar.m3u
@@ -99,7 +98,7 @@ https://raw.githubusercontent.com/emiliocuesta/milista/refs/heads/main/Nlista637
 https://raw.githubusercontent.com/emiliocuesta/milista/refs/heads/main/Nlista680
 
 
-#EXTINF:-1 tvg-logo=""group-title="",NOort
+#EXTINF:-1 tvg-logo=""group-title="",NOport
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/videos%20xxx
 
 
