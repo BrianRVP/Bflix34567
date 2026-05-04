@@ -49,22 +49,23 @@ https://raw.githubusercontent.com/boomski/TV/refs/heads/master/Cycling.m3u
 https://raw.githubusercontent.com/pk0979/m3u-live/refs/heads/main/all.m3u
 #EXTINF:-1 tvg-logo="",deporte del mundo
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/deporte%20la%20mejor.txt
-
-
+#EXTINF:-1 tvg-logo="",Deport Italia 
+https://raw.githubusercontent.com/melfis-jpg/ListaTV/refs/heads/main/Sport%20Live.m3u
 #EXTINF:-1 tvg-logo="",deportes prueba 
 https://iptv-org.github.io/iptv/categories/sports.m3u
 
+
+
+
 #EXTINF:-1 tvg-logo="",pelis 1 server
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/Movies%20server1.m3u
-
 #EXTINF:-1 tvg-logo="",4K
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/4K
-
 #EXTINF:-1 tvg-logo="",PELIS
 https://raw.githubusercontent.com/santiagoalanezrocha55-ai/Lista-pelis-m3u/refs/heads/main/Peliculas
-
 #EXTINF:-1 tvg-logo="",pluto tv
 https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_ar.m3u
+
 
 
 #EXTINF:-1 tvg-logo="",TV OP1
@@ -102,7 +103,7 @@ https://raw.githubusercontent.com/emiliocuesta/milista/refs/heads/main/Nlista637
 https://raw.githubusercontent.com/emiliocuesta/milista/refs/heads/main/Nlista680
 
 
-#EXTINF:-1 tvg-logo=""group-title="",NOport
+#EXTINF:-1 tvg-logo="",NOport
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/videos%20xxx
 
 #EXTINF:-1 tvg-logo="",argentina prueba
