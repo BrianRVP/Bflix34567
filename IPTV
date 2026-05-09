@@ -57,7 +57,8 @@ https://raw.githubusercontent.com/melfis-jpg/ListaTV/refs/heads/main/Eventi%20Li
 https://iptv-org.github.io/iptv/categories/sports.m3u
 
 
-
+#EXTINF:-1 tvg-logo="",cinecalidad
+https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/cinecalidad
 #EXTINF:-1 tvg-logo="",pelis ok.ru
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/ok.ru
 #EXTINF:-1 tvg-logo="",pelis 1 server
