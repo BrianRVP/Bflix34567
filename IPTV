@@ -3,11 +3,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="", TNT Sports
-http://46.225.94.157/hls/tnt/index.m3u8
-#EXTINF:-1 tvg-logo="", ESPN Premium
-http://46.225.94.157/hls/espn/index.m3u8
-
 #EXTINF:-1 tvg-logo="", mundo 🌎 
 https://romaxa55.github.io/world_ip_tv/output/index.m3u
 #EXTINF:-1 tvg-logo="", multiplataformas
