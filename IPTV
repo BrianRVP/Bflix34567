@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/tv4.txt
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/clable%20argentina.m3u
 
 #EXTINF:-1 tvg-logo="",deportes
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/02%20deportes
+https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/03%20deportes
 #EXTINF:-1 group-title="",ciclismo 
 https://raw.githubusercontent.com/boomski/TV/refs/heads/master/Cycling.m3u
 #EXTINF:-1 tvg-logo="",futbol otro idioma
