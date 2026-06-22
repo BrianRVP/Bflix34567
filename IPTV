@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",EVENTOS DE HOY 
+https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/01%20EVENTOS
 
 #EXTINF:-1 tvg-logo="",MARATON SERIES
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/marat%C3%B3n%20series
