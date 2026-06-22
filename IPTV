@@ -2,8 +2,10 @@
 
 #EXTINF:-1 tvg-logo="",EVENTOS DE HOY 
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/01%20EVENTOS
-#EXTINF:-1 tvg-logo="",CANALES DEPORTIVOS
+#EXTINF:-1 tvg-logo="",CANALES DEPORTIVOS 1
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/01%20CANALES%20DEPORTIVOS
+#EXTINF:-1 tvg-logo="",CSNALES DEPORTIVOS 2
+https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/01%20CANALES%20DEPORTIVOS%20op2
 
 
 
