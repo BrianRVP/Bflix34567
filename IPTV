@@ -29,8 +29,6 @@ https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/argentina.m3u
 #EXTINF:-1 tvg-logo="",runtime/extreme
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/runtime%20y%20extreme
 
-#EXTINF:-1 tvg-logo="",GRAN HERMAMO
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/GRAN%20HERMANO
 
 #EXTINF:-1 tvg-logo="",tv premium 1
 https://raw.githubusercontent.com/hansoljun0/t-v/83959ece31ccaab4eb6059f13e872271114ec30a/TELE.m3u
@@ -41,8 +39,7 @@ https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/tv4.txt
 #EXTINF:-1 tvg-logo="",cable argentina
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/clable%20argentina.m3u
 
-#EXTINF:-1 tvg-logo="",MUNDIAL 2026
-https://raw.githubusercontent.com/ltvplus/ltvplus.github.io/refs/heads/main/MUNDI4L_2026.m3u
+
 #EXTINF:-1 tvg-logo="",deportes
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/03%20deportes
 #EXTINF:-1 group-title="",ciclismo 
