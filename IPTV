@@ -1,11 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="",EVENTOS DE HOY 
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/01%20EVENTOS
-#EXTINF:-1 tvg-logo="",CANALES DEPORTIVOS 1
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/01%20CANALES%20DEPORTIVOS
-#EXTINF:-1 tvg-logo="",CSNALES DEPORTIVOS 2
-https://raw.githubusercontent.com/doms9/iptv/00000d939320cb8a9713ec943893710b41308982/M3U8/events.m3u8
+
 #EXTINF:-1 tvg-logo="", Srregio
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/arreglo
 
