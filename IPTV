@@ -66,7 +66,7 @@ https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/mai
 
 
 #EXTINF:-1 tvg-logo="",TV OP1
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/TV
+
 #EXTINF:-1 tvg-logo="",TV OP2
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/deepseek_m3u_20260416_37e720.txt
 #EXTINF:-1 tvg-logo="",TV OP3
