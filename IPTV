@@ -5,8 +5,8 @@
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/01%20EVENTOS
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",SERVER
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/deportes%20ver
+#EXTINF:-1 tvg-logo="",SERVERR
+http://23.137.84.107:59000/get.php?username=alexa947&password=73638003&type=m3u_plus
 #EXTINF:-1 tvg-logo="",MARATON SERIES
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/marat%C3%B3n%20series
 #EXTINF:-1 tvg-logo="",24/7
