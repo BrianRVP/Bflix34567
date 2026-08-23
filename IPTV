@@ -15,10 +15,9 @@ https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/247%20op3
 https://romaxa55.github.io/world_ip_tv/output/index.m3u
 #EXTINF:-1 tvg-logo="", multiplataformas
 https://raw.githubusercontent.com/JMigue85/IPTV-SV/refs/heads/main/IPTVSV.m3u
-#EXTINF:-1 tvg-logo="",full 1
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/funcional%20full.m3u8
-#EXTINF:-1 tvg-logo="",full 2
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/full.m3u
+#EXTINF:-1 tvg-logo="",full 
+https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/canales.m3u
+
 #EXTINF:-1 tvg-logo="",full 3
 https://raw.githubusercontent.com/santiagoalanezrocha55-ai/Lista-reproductor-santy.m3u/refs/heads/main/.%20m3u
 #EXTINF:-1 tvg-logo="",argentina y mas
