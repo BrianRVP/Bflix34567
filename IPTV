@@ -55,13 +55,7 @@ https://raw.githubusercontent.com/santiagoalanezrocha55-ai/Lista-pelis-m3u/refs/
 #EXTINF:-1 tvg-logo="",pluto tv
 https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_ar.m3u
 
-
-
-#EXTINF:-1 tvg-logo="",TV OP1
-
-#EXTINF:-1 tvg-logo="",TV OP2
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/deepseek_m3u_20260416_37e720.txt
-#EXTINF:-1 tvg-logo="",TV OP3
+#EXTINF:-1 tvg-logo="",TV 
 https://raw.githubusercontent.com/edisontotv/tv/refs/heads/main/tv1.m3u
 
 
