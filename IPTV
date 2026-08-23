@@ -26,8 +26,7 @@ https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/runtime%20y%2
 https://raw.githubusercontent.com/hansoljun0/t-v/83959ece31ccaab4eb6059f13e872271114ec30a/TELE.m3u
 #EXTINF:-1 tvg-logo="",tv premium 2
 https://raw.githubusercontent.com/hansoljun0/t-v/refs/heads/main/TV2.m3u
-#EXTINF:-1 tvg-logo="",tv premium 3
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/tv4.txt
+
 #EXTINF:-1 tvg-logo="",cable argentina
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/clable%20argentina.m3u
 
