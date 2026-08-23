@@ -18,8 +18,6 @@ https://raw.githubusercontent.com/JMigue85/IPTV-SV/refs/heads/main/IPTVSV.m3u
 #EXTINF:-1 tvg-logo="",full 
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/canales.m3u
 
-#EXTINF:-1 tvg-logo="",full 3
-https://raw.githubusercontent.com/santiagoalanezrocha55-ai/Lista-reproductor-santy.m3u/refs/heads/main/.%20m3u
 #EXTINF:-1 tvg-logo="",argentina y mas
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/argentina.m3u
 
