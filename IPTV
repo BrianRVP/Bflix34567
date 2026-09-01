@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="",eventos La18HD
-https://la18hd.su/eventos/
 #EXTINF:-1 tvg-logo="",EVENTOS
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/01%20EVENTOS
 
