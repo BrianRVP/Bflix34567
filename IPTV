@@ -2,7 +2,8 @@
 
 
 
-
+#EXTINF:-1 tvg-logo="",canales
+https://spinoff.link/coleccion/lista.m3u
 #EXTINF:-1 tvg-logo="", SERVIDORES
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/SERVIDORES
 #EXTINF:-1 tvg-logo="",EVENTOS
