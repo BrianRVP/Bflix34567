@@ -4,9 +4,9 @@
 #EXTINF:-1 tvg-logo="",magma
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/magma
 #EXTINF:-1 tvg-logo="",canales
-https://dl.dropbox.com/scl/fi/6fupmm2lqq4gai4jy54cu/SERVIDORES.txt?rlkey=1adv9l3n4hte4rgrpo8sqt9kp&st=j5b15gl3&.m3u
+
 #EXTINF:-1 tvg-logo="", SERVIDORES
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/SERVIDORES
+https://dl.dropbox.com/scl/fi/6fupmm2lqq4gai4jy54cu/SERVIDORES.txt?rlkey=1adv9l3n4hte4rgrpo8sqt9kp&st=j5b15gl3&.m3u
 #EXTINF:-1 tvg-logo="",EVENTOS
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/01%20EVENTOS
 
