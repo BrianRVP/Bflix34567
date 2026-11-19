@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="",EVENTOS MÉXICO 
-https://api.wdtv.app/v/libre/7CEqZWGhLShH.m3u
-
 #EXTINF:-1 tvg-logo="",EXTRENOS
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/EXTRENOS
 #EXTINF:-1 tvg-logo="",magma
