@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="",lista
+https://android-latinos.com/tv/tv.php
 #EXTINF:-1 tvg-logo="",EXTRENOS
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/EXTRENOS
 #EXTINF:-1 tvg-logo="",magma
