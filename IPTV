@@ -21,8 +21,7 @@ https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/01%20EVENTOS
 https://iptv-org.github.io/iptv/categories/sports.m3u
 #EXTINF:-1 tvg-logo="",MARATON SERIES
 https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/marat%C3%B3n%20series
-#EXTINF:-1 tvg-logo="",24/7
-https://raw.githubusercontent.com/tokio14-dot/prrr/refs/heads/main/247%20op3
+
 #EXTINF:-1 tvg-logo="", mundo 🌎 
 https://romaxa55.github.io/world_ip_tv/output/index.m3u
 #EXTINF:-1 tvg-logo="", multiplataformas
