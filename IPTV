@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="",eventos
+https://api.wdtv.app/v/libre/M2YbB3dBnKNP.m3u
 #EXTINF:-1 tvg-logo="",lista
 https://dl.dropbox.com/scl/fi/e4mg8m3r240uc6d4l8nap/tokio.m3u?rlkey=7ng2qnnjbvwesq091s8itazdj&st=l7fxihcb&.m3u
 #EXTINF:-1 tvg-logo="",EXTRENOS
